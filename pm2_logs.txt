@@ -1,0 +1,2423 @@
+[TAILING] Tailing last 1000 lines for [all] processes (change the value with --lines option)
+/home/ubuntu/.pm2/pm2.log last 1000 lines:
+PM2        | 2022-12-03T04:18:40: PM2 log: ===============================================================================
+PM2        | 2022-12-03T04:18:40: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+PM2        | 2022-12-03T04:18:40: PM2 log: Time                 : Sat Dec 03 2022 04:18:40 GMT+0000 (Coordinated Universal Time)
+PM2        | 2022-12-03T04:18:40: PM2 log: PM2 version          : 5.2.2
+PM2        | 2022-12-03T04:18:40: PM2 log: Node.js version      : 19.2.0
+PM2        | 2022-12-03T04:18:40: PM2 log: Current arch         : x64
+PM2        | 2022-12-03T04:18:40: PM2 log: PM2 home             : /home/ubuntu/.pm2
+PM2        | 2022-12-03T04:18:40: PM2 log: PM2 PID file         : /home/ubuntu/.pm2/pm2.pid
+PM2        | 2022-12-03T04:18:40: PM2 log: RPC socket file      : /home/ubuntu/.pm2/rpc.sock
+PM2        | 2022-12-03T04:18:40: PM2 log: BUS socket file      : /home/ubuntu/.pm2/pub.sock
+PM2        | 2022-12-03T04:18:40: PM2 log: Application log path : /home/ubuntu/.pm2/logs
+PM2        | 2022-12-03T04:18:40: PM2 log: Worker Interval      : 30000
+PM2        | 2022-12-03T04:18:40: PM2 log: Process dump file    : /home/ubuntu/.pm2/dump.pm2
+PM2        | 2022-12-03T04:18:40: PM2 log: Concurrent actions   : 2
+PM2        | 2022-12-03T04:18:40: PM2 log: SIGTERM timeout      : 1600
+PM2        | 2022-12-03T04:18:40: PM2 log: ===============================================================================
+PM2        | 2022-12-03T04:20:16: PM2 log: App [value1-admin:0] starting in -fork mode-
+PM2        | 2022-12-03T04:20:16: PM2 log: App [value1-admin:0] online
+PM2        | 2022-12-03T04:49:35: PM2 log: Stopping app:value1-admin id:0
+PM2        | 2022-12-03T04:49:35: PM2 log: App [value1-admin:0] exited with code [0] via signal [SIGINT]
+PM2        | 2022-12-03T04:49:35: PM2 log: pid=9065 msg=process killed
+PM2        | 2022-12-03T04:49:35: PM2 log: App [value1-admin:0] starting in -fork mode-
+PM2        | 2022-12-03T04:49:35: PM2 log: App [value1-admin:0] online
+PM2        | 2022-12-03T04:59:00: PM2 log: Stopping app:value1-admin id:0
+PM2        | 2022-12-03T04:59:00: PM2 log: App [value1-admin:0] exited with code [0] via signal [SIGINT]
+PM2        | 2022-12-03T04:59:00: PM2 log: pid=9866 msg=process killed
+PM2        | 2022-12-03T04:59:00: PM2 log: App [value1-admin:0] starting in -fork mode-
+PM2        | 2022-12-03T04:59:00: PM2 log: App [value1-admin:0] online
+PM2        | 2022-12-04T04:37:09: PM2 log: Stopping app:value1-admin id:0
+PM2        | 2022-12-04T04:37:09: PM2 log: App [value1-admin:0] exited with code [0] via signal [SIGINT]
+PM2        | 2022-12-04T04:37:10: PM2 log: pid=10576 msg=process killed
+PM2        | 2022-12-04T04:37:10: PM2 log: App [value1-admin:0] starting in -fork mode-
+PM2        | 2022-12-04T04:37:10: PM2 log: App [value1-admin:0] online
+PM2        | 2022-12-04T04:38:49: PM2 log: Stopping app:value1-admin id:0
+PM2        | 2022-12-04T04:38:49: PM2 log: App [value1-admin:0] exited with code [0] via signal [SIGINT]
+PM2        | 2022-12-04T04:38:49: PM2 log: pid=30566 msg=process killed
+PM2        | 2022-12-04T04:51:03: PM2 log: App [value1-admin:0] starting in -fork mode-
+PM2        | 2022-12-04T04:51:03: PM2 log: App [value1-admin:0] online
+PM2        | 2022-12-04T04:58:32: PM2 log: Stopping app:value1-admin id:0
+PM2        | 2022-12-04T04:58:32: PM2 log: App [value1-admin:0] exited with code [0] via signal [SIGINT]
+PM2        | 2022-12-04T04:58:32: PM2 log: pid=30732 msg=process killed
+PM2        | 2022-12-04T05:03:52: PM2 log: App [value1-admin:0] starting in -fork mode-
+PM2        | 2022-12-04T05:03:52: PM2 log: App [value1-admin:0] online
+PM2        | 2022-12-07T04:37:49: PM2 log: Stopping app:value1-admin id:0
+PM2        | 2022-12-07T04:37:49: PM2 log: App [value1-admin:0] exited with code [0] via signal [SIGINT]
+PM2        | 2022-12-07T04:37:49: PM2 log: pid=30838 msg=process killed
+PM2        | 2022-12-07T04:37:49: PM2 log: App [value1-admin:0] starting in -fork mode-
+PM2        | 2022-12-07T04:37:49: PM2 log: App [value1-admin:0] online
+PM2        | 2022-12-07T04:38:50: PM2 log: Stopping app:value1-admin id:0
+PM2        | 2022-12-07T04:38:50: PM2 log: App [value1-admin:0] exited with code [0] via signal [SIGINT]
+PM2        | 2022-12-07T04:38:50: PM2 log: pid=46994 msg=process killed
+PM2        | 2022-12-07T04:46:23: PM2 log: App [value1-admin:0] starting in -fork mode-
+PM2        | 2022-12-07T04:46:23: PM2 log: App [value1-admin:0] online
+PM2        | 2022-12-07T05:35:43: PM2 log: Stopping app:value1-admin id:0
+PM2        | 2022-12-07T05:35:43: PM2 log: App [value1-admin:0] exited with code [0] via signal [SIGINT]
+PM2        | 2022-12-07T05:35:43: PM2 log: pid=47052 msg=process killed
+PM2        | 2022-12-07T05:35:43: PM2 log: App [value1-admin:0] starting in -fork mode-
+PM2        | 2022-12-07T05:35:43: PM2 log: App [value1-admin:0] online
+PM2        | 2022-12-08T06:26:36: PM2 log: Stopping app:value1-admin id:0
+PM2        | 2022-12-08T06:26:36: PM2 log: App [value1-admin:0] exited with code [0] via signal [SIGINT]
+PM2        | 2022-12-08T06:26:37: PM2 log: pid=47836 msg=process killed
+PM2        | 2022-12-08T06:26:37: PM2 log: App [value1-admin:0] starting in -fork mode-
+PM2        | 2022-12-08T06:26:37: PM2 log: App [value1-admin:0] online
+PM2        | 2022-12-10T08:55:21: PM2 log: Stopping app:value1-admin id:0
+PM2        | 2022-12-10T08:55:21: PM2 log: App [value1-admin:0] exited with code [0] via signal [SIGINT]
+PM2        | 2022-12-10T08:55:21: PM2 log: pid=51000 msg=process killed
+PM2        | 2022-12-10T19:59:54: PM2 error: God db process id unknown
+PM2        | 2022-12-10T20:00:10: PM2 log: App [value1-user-backend:0] starting in -fork mode-
+PM2        | 2022-12-10T20:00:10: PM2 log: App [value1-user-backend:0] online
+PM2        | 2022-12-10T20:55:16: PM2 log: Stopping app:value1-user-backend id:0
+PM2        | 2022-12-10T20:55:16: PM2 log: App [value1-user-backend:0] exited with code [0] via signal [SIGINT]
+PM2        | 2022-12-10T20:55:16: PM2 log: pid=66951 msg=process killed
+PM2        | 2022-12-10T20:55:16: PM2 log: App [value1-user-backend:0] starting in -fork mode-
+PM2        | 2022-12-10T20:55:16: PM2 log: App [value1-user-backend:0] online
+PM2        | 2022-12-10T21:15:57: PM2 log: Stopping app:value1-user-backend id:0
+PM2        | 2022-12-10T21:15:57: PM2 log: App [value1-user-backend:0] exited with code [0] via signal [SIGINT]
+PM2        | 2022-12-10T21:15:57: PM2 log: pid=68768 msg=process killed
+PM2        | 2022-12-10T21:15:57: PM2 log: App [value1-user-backend:0] starting in -fork mode-
+PM2        | 2022-12-10T21:15:57: PM2 log: App [value1-user-backend:0] online
+PM2        | 2022-12-13T19:57:52: PM2 log: pm2 has been killed by signal, dumping process list before exit...
+PM2        | 2022-12-13T19:57:52: PM2 log: Deleting process 0
+PM2        | 2022-12-13T19:57:52: PM2 log: Stopping app:value1-user-backend id:0
+PM2        | 2022-12-13T19:57:55: PM2 log: App [value1-user-backend:0] exited with code [0] via signal [SIGHUP]
+PM2        | 2022-12-13T19:57:56: PM2 log: pid=69656 msg=process killed
+PM2        | 2022-12-13T19:57:56: PM2 log: Exited peacefully
+PM2        | 2022-12-13T20:01:59: PM2 log: ===============================================================================
+PM2        | 2022-12-13T20:01:59: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+PM2        | 2022-12-13T20:01:59: PM2 log: Time                 : Tue Dec 13 2022 20:01:59 GMT+0000 (Coordinated Universal Time)
+PM2        | 2022-12-13T20:01:59: PM2 log: PM2 version          : 5.2.2
+PM2        | 2022-12-13T20:01:59: PM2 log: Node.js version      : 19.2.0
+PM2        | 2022-12-13T20:01:59: PM2 log: Current arch         : x64
+PM2        | 2022-12-13T20:01:59: PM2 log: PM2 home             : /home/ubuntu/.pm2
+PM2        | 2022-12-13T20:01:59: PM2 log: PM2 PID file         : /home/ubuntu/.pm2/pm2.pid
+PM2        | 2022-12-13T20:01:59: PM2 log: RPC socket file      : /home/ubuntu/.pm2/rpc.sock
+PM2        | 2022-12-13T20:01:59: PM2 log: BUS socket file      : /home/ubuntu/.pm2/pub.sock
+PM2        | 2022-12-13T20:01:59: PM2 log: Application log path : /home/ubuntu/.pm2/logs
+PM2        | 2022-12-13T20:01:59: PM2 log: Worker Interval      : 30000
+PM2        | 2022-12-13T20:01:59: PM2 log: Process dump file    : /home/ubuntu/.pm2/dump.pm2
+PM2        | 2022-12-13T20:01:59: PM2 log: Concurrent actions   : 2
+PM2        | 2022-12-13T20:01:59: PM2 log: SIGTERM timeout      : 1600
+PM2        | 2022-12-13T20:01:59: PM2 log: ===============================================================================
+PM2        | 2022-12-13T20:02:54: PM2 log: App [value1-user-backend:0] starting in -fork mode-
+PM2        | 2022-12-13T20:02:54: PM2 log: App [value1-user-backend:0] online
+PM2        | 2022-12-23T17:01:29: PM2 log: Stopping app:value1-user-backend id:0
+PM2        | 2022-12-23T17:01:29: PM2 log: App [value1-user-backend:0] exited with code [0] via signal [SIGINT]
+PM2        | 2022-12-23T17:01:29: PM2 log: pid=1840 msg=process killed
+PM2        | 2022-12-23T17:01:29: PM2 log: App [value1-user-backend:0] starting in -fork mode-
+PM2        | 2022-12-23T17:01:29: PM2 log: App [value1-user-backend:0] online
+PM2        | 2022-12-27T08:26:34: PM2 log: Stopping app:value1-user-backend id:0
+PM2        | 2022-12-27T08:26:34: PM2 log: App [value1-user-backend:0] exited with code [0] via signal [SIGINT]
+PM2        | 2022-12-27T08:26:34: PM2 log: pid=267609 msg=process killed
+PM2        | 2022-12-27T08:26:34: PM2 log: App [value1-user-backend:0] starting in -fork mode-
+PM2        | 2022-12-27T08:26:34: PM2 log: App [value1-user-backend:0] online
+PM2        | 2023-01-25T07:12:56: PM2 log: Stopping app:value1-user-backend id:0
+PM2        | 2023-01-25T07:12:56: PM2 log: App [value1-user-backend:0] exited with code [0] via signal [SIGINT]
+PM2        | 2023-01-25T07:12:56: PM2 log: pid=317581 msg=process killed
+PM2        | 2023-01-25T07:12:56: PM2 log: App [value1-user-backend:0] starting in -fork mode-
+PM2        | 2023-01-25T07:12:56: PM2 log: App [value1-user-backend:0] online
+PM2        | 2023-01-25T07:30:54: PM2 log: Stopping app:value1-user-backend id:0
+PM2        | 2023-01-25T07:30:54: PM2 log: App [value1-user-backend:0] exited with code [0] via signal [SIGINT]
+PM2        | 2023-01-25T07:30:54: PM2 log: pid=711595 msg=process killed
+PM2        | 2023-01-25T07:32:16: PM2 log: App [value1-user-backend:0] starting in -fork mode-
+PM2        | 2023-01-25T07:32:16: PM2 log: App [value1-user-backend:0] online
+PM2        | 2023-01-25T07:40:07: PM2 log: Stopping app:value1-user-backend id:0
+PM2        | 2023-01-25T07:40:07: PM2 log: App [value1-user-backend:0] exited with code [0] via signal [SIGINT]
+PM2        | 2023-01-25T07:40:07: PM2 log: pid=712725 msg=process killed
+PM2        | 2023-01-25T07:40:46: PM2 log: App [value1-user-backend:0] starting in -fork mode-
+PM2        | 2023-01-25T07:40:46: PM2 log: App [value1-user-backend:0] online
+PM2        | 2023-01-27T11:46:39: PM2 log: Stopping app:value1-user-backend id:0
+PM2        | 2023-01-27T11:46:39: PM2 log: App [value1-user-backend:0] exited with code [0] via signal [SIGINT]
+PM2        | 2023-01-27T11:46:39: PM2 log: pid=713565 msg=process killed
+PM2        | 2023-01-27T11:56:03: PM2 log: App [value1-user-backend:0] starting in -fork mode-
+PM2        | 2023-01-27T11:56:03: PM2 log: App [value1-user-backend:0] online
+PM2        | 2023-01-27T15:21:41: PM2 log: Stopping app:value1-user-backend id:0
+PM2        | 2023-01-27T15:21:41: PM2 log: App [value1-user-backend:0] exited with code [0] via signal [SIGINT]
+PM2        | 2023-01-27T15:21:41: PM2 log: pid=746327 msg=process killed
+PM2        | 2023-01-27T15:21:41: PM2 log: App [value1-user-backend:0] starting in -fork mode-
+PM2        | 2023-01-27T15:21:41: PM2 log: App [value1-user-backend:0] online
+PM2        | 2023-01-27T15:44:44: PM2 log: Stopping app:value1-user-backend id:0
+PM2        | 2023-01-27T15:44:44: PM2 log: App [value1-user-backend:0] exited with code [0] via signal [SIGINT]
+PM2        | 2023-01-27T15:44:44: PM2 log: pid=749220 msg=process killed
+PM2        | 2023-01-27T15:44:44: PM2 log: App [value1-user-backend:0] starting in -fork mode-
+PM2        | 2023-01-27T15:44:44: PM2 log: App [value1-user-backend:0] online
+PM2        | 2023-01-27T16:16:32: PM2 log: Stopping app:value1-user-backend id:0
+PM2        | 2023-01-27T16:16:32: PM2 log: App [value1-user-backend:0] exited with code [0] via signal [SIGINT]
+PM2        | 2023-01-27T16:16:32: PM2 log: pid=749432 msg=process killed
+PM2        | 2023-01-27T16:16:32: PM2 log: App [value1-user-backend:0] starting in -fork mode-
+PM2        | 2023-01-27T16:16:32: PM2 log: App [value1-user-backend:0] online
+PM2        | 2023-01-28T14:32:58: PM2 log: Stopping app:value1-user-backend id:0
+PM2        | 2023-01-28T14:32:58: PM2 log: App [value1-user-backend:0] exited with code [0] via signal [SIGINT]
+PM2        | 2023-01-28T14:32:59: PM2 log: pid=749714 msg=process killed
+PM2        | 2023-01-28T15:52:41: PM2 log: App [value1-user-backend:0] starting in -fork mode-
+PM2        | 2023-01-28T15:52:41: PM2 log: App [value1-user-backend:0] online
+PM2        | 2023-01-28T15:54:15: PM2 log: Stopping app:value1-user-backend id:0
+PM2        | 2023-01-28T15:54:15: PM2 log: App [value1-user-backend:0] exited with code [0] via signal [SIGINT]
+PM2        | 2023-01-28T15:54:15: PM2 log: pid=764786 msg=process killed
+PM2        | 2023-01-28T15:57:05: PM2 log: App [value1-user-backend:0] starting in -fork mode-
+PM2        | 2023-01-28T15:57:05: PM2 log: App [value1-user-backend:0] online
+PM2        | 2023-01-31T06:35:15: PM2 log: Stopping app:value1-user-backend id:0
+PM2        | 2023-01-31T06:35:15: PM2 log: App [value1-user-backend:0] exited with code [0] via signal [SIGINT]
+PM2        | 2023-01-31T06:35:15: PM2 log: pid=764922 msg=process killed
+PM2        | 2023-01-31T06:35:15: PM2 log: App [value1-user-backend:0] starting in -fork mode-
+PM2        | 2023-01-31T06:35:15: PM2 log: App [value1-user-backend:0] online
+PM2        | 2023-01-31T06:35:29: PM2 log: Stopping app:value1-user-backend id:0
+PM2        | 2023-01-31T06:35:29: PM2 log: App [value1-user-backend:0] exited with code [0] via signal [SIGINT]
+PM2        | 2023-01-31T06:35:29: PM2 log: pid=803843 msg=process killed
+PM2        | 2023-01-31T07:02:54: PM2 log: App [value1-user-backend:0] starting in -fork mode-
+PM2        | 2023-01-31T07:02:54: PM2 log: App [value1-user-backend:0] online
+PM2        | 2023-01-31T07:03:15: PM2 log: Stopping app:value1-user-backend id:0
+PM2        | 2023-01-31T07:03:15: PM2 log: App [value1-user-backend:0] exited with code [0] via signal [SIGINT]
+PM2        | 2023-01-31T07:03:15: PM2 log: pid=804259 msg=process killed
+PM2        | 2023-02-01T04:28:13: PM2 log: App [value1-user-backend:0] starting in -fork mode-
+PM2        | 2023-02-01T04:28:13: PM2 log: App [value1-user-backend:0] online
+PM2        | 2023-02-01T05:48:36: PM2 log: Stopping app:value1-user-backend id:0
+PM2        | 2023-02-01T05:48:36: PM2 log: App [value1-user-backend:0] exited with code [0] via signal [SIGINT]
+PM2        | 2023-02-01T05:48:37: PM2 log: pid=818427 msg=process killed
+PM2        | 2023-02-01T05:48:37: PM2 log: App [value1-user-backend:0] starting in -fork mode-
+PM2        | 2023-02-01T05:48:37: PM2 log: App [value1-user-backend:0] online
+PM2        | 2023-02-01T05:53:47: PM2 log: Stopping app:value1-user-backend id:0
+PM2        | 2023-02-01T05:53:47: PM2 log: App [value1-user-backend:0] exited with code [0] via signal [SIGINT]
+PM2        | 2023-02-01T05:53:47: PM2 log: pid=819834 msg=process killed
+PM2        | 2023-02-01T05:53:47: PM2 log: App [value1-user-backend:0] starting in -fork mode-
+PM2        | 2023-02-01T05:53:47: PM2 log: App [value1-user-backend:0] online
+PM2        | 2023-02-01T06:01:20: PM2 log: Stopping app:value1-user-backend id:0
+PM2        | 2023-02-01T06:01:20: PM2 log: App [value1-user-backend:0] exited with code [0] via signal [SIGINT]
+PM2        | 2023-02-01T06:01:20: PM2 log: pid=819917 msg=process killed
+PM2        | 2023-02-01T07:10:07: PM2 log: App [value1-user-backend:0] starting in -fork mode-
+PM2        | 2023-02-01T07:10:07: PM2 log: App [value1-user-backend:0] online
+PM2        | 2023-02-01T07:10:11: PM2 log: Stopping app:value1-user-backend id:0
+PM2        | 2023-02-01T07:10:11: PM2 log: App [value1-user-backend:0] exited with code [0] via signal [SIGINT]
+PM2        | 2023-02-01T07:10:11: PM2 log: pid=821416 msg=process killed
+PM2        | 2023-02-01T07:10:11: PM2 log: App [value1-user-backend:0] starting in -fork mode-
+PM2        | 2023-02-01T07:10:11: PM2 log: App [value1-user-backend:0] online
+PM2        | 2023-02-01T07:16:49: PM2 log: Stopping app:value1-user-backend id:0
+PM2        | 2023-02-01T07:16:49: PM2 log: App [value1-user-backend:0] exited with code [0] via signal [SIGINT]
+PM2        | 2023-02-01T07:16:50: PM2 log: pid=821440 msg=process killed
+PM2        | 2023-02-01T07:16:55: PM2 log: App [value1-user-backend:0] starting in -fork mode-
+PM2        | 2023-02-01T07:16:55: PM2 log: App [value1-user-backend:0] online
+PM2        | 2023-02-01T07:22:18: PM2 log: Stopping app:value1-user-backend id:0
+PM2        | 2023-02-01T07:22:18: PM2 log: App [value1-user-backend:0] exited with code [0] via signal [SIGINT]
+PM2        | 2023-02-01T07:22:18: PM2 log: pid=821602 msg=process killed
+PM2        | 2023-02-01T07:22:23: PM2 log: App [value1-user-backend:0] starting in -fork mode-
+PM2        | 2023-02-01T07:22:23: PM2 log: App [value1-user-backend:0] online
+PM2        | 2023-02-01T07:36:11: PM2 log: Stopping app:value1-user-backend id:0
+PM2        | 2023-02-01T07:36:11: PM2 log: App [value1-user-backend:0] exited with code [0] via signal [SIGINT]
+PM2        | 2023-02-01T07:36:12: PM2 log: pid=821707 msg=process killed
+PM2        | 2023-02-01T07:36:12: PM2 log: App [value1-user-backend:0] starting in -fork mode-
+PM2        | 2023-02-01T07:36:12: PM2 log: App [value1-user-backend:0] online
+PM2        | 2023-02-01T07:36:15: PM2 log: Stopping app:value1-user-backend id:0
+PM2        | 2023-02-01T07:36:15: PM2 log: App [value1-user-backend:0] exited with code [0] via signal [SIGINT]
+PM2        | 2023-02-01T07:36:16: PM2 log: pid=821852 msg=process killed
+PM2        | 2023-02-01T07:36:16: PM2 log: App [value1-user-backend:0] starting in -fork mode-
+PM2        | 2023-02-01T07:36:16: PM2 log: App [value1-user-backend:0] online
+PM2        | 2023-02-01T07:50:11: PM2 log: Stopping app:value1-user-backend id:0
+PM2        | 2023-02-01T07:50:11: PM2 log: App [value1-user-backend:0] exited with code [0] via signal [SIGINT]
+PM2        | 2023-02-01T07:50:11: PM2 log: pid=821876 msg=process killed
+PM2        | 2023-02-01T07:50:11: PM2 log: App [value1-user-backend:0] starting in -fork mode-
+PM2        | 2023-02-01T07:50:11: PM2 log: App [value1-user-backend:0] online
+PM2        | 2023-02-01T07:50:14: PM2 log: Stopping app:value1-user-backend id:0
+PM2        | 2023-02-01T07:50:14: PM2 log: App [value1-user-backend:0] exited with code [0] via signal [SIGINT]
+PM2        | 2023-02-01T07:50:14: PM2 log: pid=822020 msg=process killed
+PM2        | 2023-02-01T07:50:14: PM2 log: App [value1-user-backend:0] starting in -fork mode-
+PM2        | 2023-02-01T07:50:14: PM2 log: App [value1-user-backend:0] online
+PM2        | 2023-02-01T08:00:24: PM2 log: Stopping app:value1-user-backend id:0
+PM2        | 2023-02-01T08:00:24: PM2 log: App [value1-user-backend:0] exited with code [0] via signal [SIGINT]
+PM2        | 2023-02-01T08:00:25: PM2 log: pid=822043 msg=process killed
+PM2        | 2023-02-01T08:00:25: PM2 log: App [value1-user-backend:0] starting in -fork mode-
+PM2        | 2023-02-01T08:00:25: PM2 log: App [value1-user-backend:0] online
+PM2        | 2023-02-01T08:00:28: PM2 log: Stopping app:value1-user-backend id:0
+PM2        | 2023-02-01T08:00:28: PM2 log: App [value1-user-backend:0] exited with code [0] via signal [SIGINT]
+PM2        | 2023-02-01T08:00:28: PM2 log: pid=822171 msg=process killed
+PM2        | 2023-02-01T08:00:28: PM2 log: App [value1-user-backend:0] starting in -fork mode-
+PM2        | 2023-02-01T08:00:28: PM2 log: App [value1-user-backend:0] online
+PM2        | 2023-02-11T13:30:40: PM2 log: Stopping app:value1-user-backend id:0
+PM2        | 2023-02-11T13:30:40: PM2 log: App [value1-user-backend:0] exited with code [0] via signal [SIGINT]
+PM2        | 2023-02-11T13:30:41: PM2 log: pid=822194 msg=process killed
+PM2        | 2023-02-11T13:30:41: PM2 log: App [value1-user-backend:0] starting in -fork mode-
+PM2        | 2023-02-11T13:30:41: PM2 log: App [value1-user-backend:0] online
+PM2        | 2023-02-11T13:36:44: PM2 log: Stopping app:value1-user-backend id:0
+PM2        | 2023-02-11T13:36:44: PM2 log: App [value1-user-backend:0] exited with code [0] via signal [SIGINT]
+PM2        | 2023-02-11T13:36:44: PM2 log: pid=962524 msg=process killed
+PM2        | 2023-02-11T13:36:44: PM2 log: App [value1-user-backend:0] starting in -fork mode-
+PM2        | 2023-02-11T13:36:44: PM2 log: App [value1-user-backend:0] online
+PM2        | 2023-02-12T19:57:24: PM2 log: Stopping app:value1-user-backend id:0
+PM2        | 2023-02-12T19:57:24: PM2 log: App [value1-user-backend:0] exited with code [0] via signal [SIGINT]
+PM2        | 2023-02-12T19:57:24: PM2 log: pid=962602 msg=process killed
+PM2        | 2023-02-12T19:57:24: PM2 log: App [value1-user-backend:0] starting in -fork mode-
+PM2        | 2023-02-12T19:57:24: PM2 log: App [value1-user-backend:0] online
+PM2        | 2023-02-13T05:03:15: PM2 log: Stopping app:value1-user-backend id:0
+PM2        | 2023-02-13T05:03:15: PM2 log: App [value1-user-backend:0] exited with code [0] via signal [SIGINT]
+PM2        | 2023-02-13T05:03:15: PM2 log: pid=979614 msg=process killed
+PM2        | 2023-02-13T05:03:15: PM2 log: App [value1-user-backend:0] starting in -fork mode-
+PM2        | 2023-02-13T05:03:15: PM2 log: App [value1-user-backend:0] online
+PM2        | 2023-02-13T08:41:17: PM2 log: Stopping app:value1-user-backend id:0
+PM2        | 2023-02-13T08:41:17: PM2 log: App [value1-user-backend:0] exited with code [0] via signal [SIGINT]
+PM2        | 2023-02-13T08:41:17: PM2 log: pid=985647 msg=process killed
+PM2        | 2023-02-13T08:41:17: PM2 log: App [value1-user-backend:0] starting in -fork mode-
+PM2        | 2023-02-13T08:41:17: PM2 log: App [value1-user-backend:0] online
+PM2        | 2023-02-13T08:49:38: PM2 log: Stopping app:value1-user-backend id:0
+PM2        | 2023-02-13T08:49:38: PM2 log: App [value1-user-backend:0] exited with code [0] via signal [SIGINT]
+PM2        | 2023-02-13T08:49:38: PM2 log: pid=988448 msg=process killed
+PM2        | 2023-02-13T08:49:38: PM2 log: App [value1-user-backend:0] starting in -fork mode-
+PM2        | 2023-02-13T08:49:38: PM2 log: App [value1-user-backend:0] online
+PM2        | 2023-02-13T10:58:34: PM2 log: Stopping app:value1-user-backend id:0
+PM2        | 2023-02-13T10:58:34: PM2 log: App [value1-user-backend:0] exited with code [0] via signal [SIGINT]
+PM2        | 2023-02-13T10:58:34: PM2 log: pid=988552 msg=process killed
+PM2        | 2023-02-13T10:58:34: PM2 log: App [value1-user-backend:0] starting in -fork mode-
+PM2        | 2023-02-13T10:58:34: PM2 log: App [value1-user-backend:0] online
+PM2        | 2023-02-14T20:43:32: PM2 log: Stopping app:value1-user-backend id:0
+PM2        | 2023-02-14T20:43:32: PM2 log: App [value1-user-backend:0] exited with code [0] via signal [SIGINT]
+PM2        | 2023-02-14T20:43:32: PM2 log: pid=990223 msg=process killed
+PM2        | 2023-02-14T20:43:32: PM2 log: App [value1-user-backend:0] starting in -fork mode-
+PM2        | 2023-02-14T20:43:32: PM2 log: App [value1-user-backend:0] online
+PM2        | 2023-02-15T05:07:06: PM2 log: Stopping app:value1-user-backend id:0
+PM2        | 2023-02-15T05:07:06: PM2 log: App [value1-user-backend:0] exited with code [0] via signal [SIGINT]
+PM2        | 2023-02-15T05:07:06: PM2 log: pid=1008998 msg=process killed
+PM2        | 2023-02-15T05:07:06: PM2 log: App [value1-user-backend:0] starting in -fork mode-
+PM2        | 2023-02-15T05:07:06: PM2 log: App [value1-user-backend:0] online
+PM2        | 2023-02-15T17:00:35: PM2 log: Stopping app:value1-user-backend id:0
+PM2        | 2023-02-15T17:00:35: PM2 log: App [value1-user-backend:0] exited with code [0] via signal [SIGINT]
+PM2        | 2023-02-15T17:00:35: PM2 log: pid=1014068 msg=process killed
+PM2        | 2023-02-15T17:00:35: PM2 log: App [value1-user-backend:0] starting in -fork mode-
+PM2        | 2023-02-15T17:00:35: PM2 log: App [value1-user-backend:0] online
+PM2        | 2023-02-20T13:29:18: PM2 log: Stopping app:value1-user-backend id:0
+PM2        | 2023-02-20T13:29:18: PM2 log: App [value1-user-backend:0] exited with code [0] via signal [SIGINT]
+PM2        | 2023-02-20T13:29:18: PM2 log: pid=1021947 msg=process killed
+PM2        | 2023-02-20T13:29:18: PM2 log: App [value1-user-backend:0] starting in -fork mode-
+PM2        | 2023-02-20T13:29:18: PM2 log: App [value1-user-backend:0] online
+PM2        | 2023-02-20T13:59:25: PM2 log: Stopping app:value1-user-backend id:0
+PM2        | 2023-02-20T13:59:25: PM2 log: App [value1-user-backend:0] exited with code [0] via signal [SIGINT]
+PM2        | 2023-02-20T13:59:25: PM2 log: pid=1090804 msg=process killed
+PM2        | 2023-02-20T13:59:25: PM2 log: App [value1-user-backend:0] starting in -fork mode-
+PM2        | 2023-02-20T13:59:25: PM2 log: App [value1-user-backend:0] online
+PM2        | 2023-02-24T13:40:13: PM2 log: Stopping app:value1-user-backend id:0
+PM2        | 2023-02-24T13:40:13: PM2 log: App [value1-user-backend:0] exited with code [0] via signal [SIGINT]
+PM2        | 2023-02-24T13:40:13: PM2 log: pid=1091786 msg=process killed
+PM2        | 2023-02-24T13:40:13: PM2 log: App [value1-user-backend:0] starting in -fork mode-
+PM2        | 2023-02-24T13:40:13: PM2 log: App [value1-user-backend:0] online
+PM2        | 2023-02-25T07:05:18: PM2 log: Stopping app:value1-user-backend id:0
+PM2        | 2023-02-25T07:05:18: PM2 log: App [value1-user-backend:0] exited with code [0] via signal [SIGINT]
+PM2        | 2023-02-25T07:05:18: PM2 log: pid=1143098 msg=process killed
+PM2        | 2023-02-25T07:05:18: PM2 log: App [value1-user-backend:0] starting in -fork mode-
+PM2        | 2023-02-25T07:05:18: PM2 log: App [value1-user-backend:0] online
+PM2        | 2023-02-25T07:19:34: PM2 log: Stopping app:value1-user-backend id:0
+PM2        | 2023-02-25T07:19:34: PM2 log: App [value1-user-backend:0] exited with code [0] via signal [SIGINT]
+PM2        | 2023-02-25T07:19:34: PM2 log: pid=1152702 msg=process killed
+PM2        | 2023-02-25T07:19:34: PM2 log: App [value1-user-backend:0] starting in -fork mode-
+PM2        | 2023-02-25T07:19:34: PM2 log: App [value1-user-backend:0] online
+PM2        | 2023-02-25T14:35:15: PM2 log: Stopping app:value1-user-backend id:0
+PM2        | 2023-02-25T14:35:15: PM2 log: App [value1-user-backend:0] exited with code [0] via signal [SIGINT]
+PM2        | 2023-02-25T14:35:15: PM2 log: pid=1152873 msg=process killed
+PM2        | 2023-02-25T14:35:15: PM2 log: App [value1-user-backend:0] starting in -fork mode-
+PM2        | 2023-02-25T14:35:15: PM2 log: App [value1-user-backend:0] online
+PM2        | 2023-02-27T11:16:35: PM2 log: Stopping app:value1-user-backend id:0
+PM2        | 2023-02-27T11:16:35: PM2 log: App [value1-user-backend:0] exited with code [0] via signal [SIGINT]
+PM2        | 2023-02-27T11:16:35: PM2 log: pid=1157094 msg=process killed
+PM2        | 2023-02-27T11:16:35: PM2 log: App [value1-user-backend:0] starting in -fork mode-
+PM2        | 2023-02-27T11:16:35: PM2 log: App [value1-user-backend:0] online
+PM2        | 2023-02-27T11:41:46: PM2 log: Stopping app:value1-user-backend id:0
+PM2        | 2023-02-27T11:41:46: PM2 log: App [value1-user-backend:0] exited with code [0] via signal [SIGINT]
+PM2        | 2023-02-27T11:41:46: PM2 log: pid=1181415 msg=process killed
+PM2        | 2023-02-27T11:41:46: PM2 log: App [value1-user-backend:0] starting in -fork mode-
+PM2        | 2023-02-27T11:41:46: PM2 log: App [value1-user-backend:0] online
+PM2        | 2023-03-01T07:32:03: PM2 log: Stopping app:value1-user-backend id:0
+PM2        | 2023-03-01T07:32:03: PM2 log: App [value1-user-backend:0] exited with code [0] via signal [SIGINT]
+PM2        | 2023-03-01T07:32:03: PM2 log: pid=1182337 msg=process killed
+PM2        | 2023-03-01T07:32:03: PM2 log: App [value1-user-backend:0] starting in -fork mode-
+PM2        | 2023-03-01T07:32:03: PM2 log: App [value1-user-backend:0] online
+PM2        | 2023-03-03T06:41:35: PM2 log: App [value1-user-backend:0] exited with code [1] via signal [SIGINT]
+PM2        | 2023-03-03T06:41:35: PM2 log: App [value1-user-backend:0] starting in -fork mode-
+PM2        | 2023-03-03T06:41:35: PM2 log: App [value1-user-backend:0] online
+PM2        | 2023-03-08T12:37:01: PM2 log: Stopping app:value1-user-backend id:0
+PM2        | 2023-03-08T12:37:01: PM2 log: App [value1-user-backend:0] exited with code [0] via signal [SIGINT]
+PM2        | 2023-03-08T12:37:01: PM2 log: pid=1244720 msg=process killed
+PM2        | 2023-03-08T12:37:01: PM2 log: App [value1-user-backend:0] starting in -fork mode-
+PM2        | 2023-03-08T12:37:01: PM2 log: App [value1-user-backend:0] online
+PM2        | 2023-03-09T13:51:34: PM2 log: Stopping app:value1-user-backend id:0
+PM2        | 2023-03-09T13:51:34: PM2 log: App [value1-user-backend:0] exited with code [0] via signal [SIGINT]
+PM2        | 2023-03-09T13:51:34: PM2 log: pid=1306048 msg=process killed
+PM2        | 2023-03-09T13:51:34: PM2 log: App [value1-user-backend:0] starting in -fork mode-
+PM2        | 2023-03-09T13:51:34: PM2 log: App [value1-user-backend:0] online
+PM2        | 2023-03-10T06:48:29: PM2 log: Stopping app:value1-user-backend id:0
+PM2        | 2023-03-10T06:48:29: PM2 log: App [value1-user-backend:0] exited with code [0] via signal [SIGINT]
+PM2        | 2023-03-10T06:48:29: PM2 log: pid=1316161 msg=process killed
+PM2        | 2023-03-10T06:48:29: PM2 log: App [value1-user-backend:0] starting in -fork mode-
+PM2        | 2023-03-10T06:48:29: PM2 log: App [value1-user-backend:0] online
+PM2        | 2023-03-11T13:07:18: PM2 log: Stopping app:value1-user-backend id:0
+PM2        | 2023-03-11T13:07:18: PM2 log: App [value1-user-backend:0] exited with code [0] via signal [SIGINT]
+PM2        | 2023-03-11T13:07:18: PM2 log: pid=1325130 msg=process killed
+PM2        | 2023-03-11T13:07:18: PM2 log: App [value1-user-backend:0] starting in -fork mode-
+PM2        | 2023-03-11T13:07:18: PM2 log: App [value1-user-backend:0] online
+PM2        | 2023-03-13T10:16:26: PM2 log: Stopping app:value1-user-backend id:0
+PM2        | 2023-03-13T10:16:26: PM2 log: App [value1-user-backend:0] exited with code [0] via signal [SIGINT]
+PM2        | 2023-03-13T10:16:26: PM2 log: pid=1338747 msg=process killed
+PM2        | 2023-03-13T10:16:26: PM2 log: App [value1-user-backend:0] starting in -fork mode-
+PM2        | 2023-03-13T10:16:26: PM2 log: App [value1-user-backend:0] online
+PM2        | 2023-03-13T10:16:28: PM2 log: App [value1-user-backend:0] exited with code [1] via signal [SIGINT]
+PM2        | 2023-03-13T10:16:28: PM2 log: App [value1-user-backend:0] starting in -fork mode-
+PM2        | 2023-03-13T10:16:28: PM2 log: App [value1-user-backend:0] online
+PM2        | 2023-03-13T10:16:28: PM2 log: App [value1-user-backend:0] exited with code [1] via signal [SIGINT]
+PM2        | 2023-03-13T10:16:28: PM2 log: App [value1-user-backend:0] starting in -fork mode-
+PM2        | 2023-03-13T10:16:28: PM2 log: App [value1-user-backend:0] online
+PM2        | 2023-03-13T10:16:29: PM2 log: App [value1-user-backend:0] exited with code [1] via signal [SIGINT]
+PM2        | 2023-03-13T10:16:29: PM2 log: App [value1-user-backend:0] starting in -fork mode-
+PM2        | 2023-03-13T10:16:29: PM2 log: App [value1-user-backend:0] online
+PM2        | 2023-03-13T10:16:30: PM2 log: App [value1-user-backend:0] exited with code [1] via signal [SIGINT]
+PM2        | 2023-03-13T10:16:30: PM2 log: App [value1-user-backend:0] starting in -fork mode-
+PM2        | 2023-03-13T10:16:30: PM2 log: App [value1-user-backend:0] online
+PM2        | 2023-03-13T10:16:31: PM2 log: App [value1-user-backend:0] exited with code [1] via signal [SIGINT]
+PM2        | 2023-03-13T10:16:31: PM2 log: App [value1-user-backend:0] starting in -fork mode-
+PM2        | 2023-03-13T10:16:31: PM2 log: App [value1-user-backend:0] online
+PM2        | 2023-03-13T10:16:31: PM2 log: App [value1-user-backend:0] exited with code [1] via signal [SIGINT]
+PM2        | 2023-03-13T10:16:31: PM2 log: App [value1-user-backend:0] starting in -fork mode-
+PM2        | 2023-03-13T10:16:31: PM2 log: App [value1-user-backend:0] online
+PM2        | 2023-03-13T10:16:32: PM2 log: App [value1-user-backend:0] exited with code [1] via signal [SIGINT]
+PM2        | 2023-03-13T10:16:32: PM2 log: App [value1-user-backend:0] starting in -fork mode-
+PM2        | 2023-03-13T10:16:32: PM2 log: App [value1-user-backend:0] online
+PM2        | 2023-03-13T10:16:33: PM2 log: App [value1-user-backend:0] exited with code [1] via signal [SIGINT]
+PM2        | 2023-03-13T10:16:33: PM2 log: App [value1-user-backend:0] starting in -fork mode-
+PM2        | 2023-03-13T10:16:33: PM2 log: App [value1-user-backend:0] online
+PM2        | 2023-03-13T10:16:34: PM2 log: App [value1-user-backend:0] exited with code [1] via signal [SIGINT]
+PM2        | 2023-03-13T10:16:34: PM2 log: App [value1-user-backend:0] starting in -fork mode-
+PM2        | 2023-03-13T10:16:34: PM2 log: App [value1-user-backend:0] online
+PM2        | 2023-03-13T10:16:34: PM2 log: App [value1-user-backend:0] exited with code [1] via signal [SIGINT]
+PM2        | 2023-03-13T10:16:34: PM2 log: App [value1-user-backend:0] starting in -fork mode-
+PM2        | 2023-03-13T10:16:34: PM2 log: App [value1-user-backend:0] online
+PM2        | 2023-03-13T10:16:35: PM2 log: App [value1-user-backend:0] exited with code [1] via signal [SIGINT]
+PM2        | 2023-03-13T10:16:35: PM2 log: App [value1-user-backend:0] starting in -fork mode-
+PM2        | 2023-03-13T10:16:35: PM2 log: App [value1-user-backend:0] online
+PM2        | 2023-03-13T10:16:36: PM2 log: App [value1-user-backend:0] exited with code [1] via signal [SIGINT]
+PM2        | 2023-03-13T10:16:36: PM2 log: App [value1-user-backend:0] starting in -fork mode-
+PM2        | 2023-03-13T10:16:36: PM2 log: App [value1-user-backend:0] online
+PM2        | 2023-03-13T10:16:37: PM2 log: App [value1-user-backend:0] exited with code [1] via signal [SIGINT]
+PM2        | 2023-03-13T10:16:37: PM2 log: App [value1-user-backend:0] starting in -fork mode-
+PM2        | 2023-03-13T10:16:37: PM2 log: App [value1-user-backend:0] online
+PM2        | 2023-03-13T10:16:37: PM2 log: App [value1-user-backend:0] exited with code [1] via signal [SIGINT]
+PM2        | 2023-03-13T10:16:37: PM2 log: App [value1-user-backend:0] starting in -fork mode-
+PM2        | 2023-03-13T10:16:37: PM2 log: App [value1-user-backend:0] online
+PM2        | 2023-03-13T10:16:38: PM2 log: App [value1-user-backend:0] exited with code [1] via signal [SIGINT]
+PM2        | 2023-03-13T10:16:38: PM2 log: App [value1-user-backend:0] starting in -fork mode-
+PM2        | 2023-03-13T10:16:38: PM2 log: App [value1-user-backend:0] online
+PM2        | 2023-03-13T10:16:39: PM2 log: App [value1-user-backend:0] exited with code [1] via signal [SIGINT]
+PM2        | 2023-03-13T10:16:39: PM2 log: App [value1-user-backend:0] starting in -fork mode-
+PM2        | 2023-03-13T10:16:39: PM2 log: App [value1-user-backend:0] online
+PM2        | 2023-03-13T10:16:40: PM2 log: App [value1-user-backend:0] exited with code [1] via signal [SIGINT]
+PM2        | 2023-03-13T10:16:40: PM2 log: Script /var/www/html/value1-user-backend/index.js had too many unstable restarts (16). Stopped. "errored"
+PM2        | 2023-03-13T10:18:19: PM2 log: App [value1-user-backend:0] starting in -fork mode-
+PM2        | 2023-03-13T10:18:19: PM2 log: App [value1-user-backend:0] online
+PM2        | 2023-03-13T16:23:56: PM2 log: Stopping app:value1-user-backend id:0
+PM2        | 2023-03-13T16:23:56: PM2 log: App [value1-user-backend:0] exited with code [0] via signal [SIGINT]
+PM2        | 2023-03-13T16:23:56: PM2 log: pid=1358264 msg=process killed
+PM2        | 2023-03-13T16:23:56: PM2 log: App [value1-user-backend:0] starting in -fork mode-
+PM2        | 2023-03-13T16:23:56: PM2 log: App [value1-user-backend:0] online
+PM2        | 2023-03-13T16:44:05: PM2 log: Stopping app:value1-user-backend id:0
+PM2        | 2023-03-13T16:44:05: PM2 log: App [value1-user-backend:0] exited with code [0] via signal [SIGINT]
+PM2        | 2023-03-13T16:44:05: PM2 log: pid=1361664 msg=process killed
+
+/home/ubuntu/.pm2/logs/value1-user-backend-error.log last 1000 lines:
+0|value1-u |     at parse (/var/www/html/value1-user-backend/node_modules/body-parser/lib/types/json.js:83:15)
+0|value1-u |     at /var/www/html/value1-user-backend/node_modules/body-parser/lib/read.js:128:18
+0|value1-u |     at AsyncResource.runInAsyncScope (node:async_hooks:204:9)
+0|value1-u |     at invokeCallback (/var/www/html/value1-user-backend/node_modules/raw-body/index.js:231:16)
+0|value1-u |     at done (/var/www/html/value1-user-backend/node_modules/raw-body/index.js:220:7)
+0|value1-u |     at IncomingMessage.onEnd (/var/www/html/value1-user-backend/node_modules/raw-body/index.js:280:7)
+0|value1-u |     at IncomingMessage.emit (node:events:513:28)
+0|value1-u |     at endReadableNT (node:internal/streams/readable:1359:12)
+0|value1-u |     at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+0|value1-u | {
+0|value1-u |   statusCode: 400,
+0|value1-u |   error: {
+0|value1-u |     code: 'BAD_REQUEST_ERROR',
+0|value1-u |     description: 'This payment has already been captured',
+0|value1-u |     source: 'NA',
+0|value1-u |     step: 'NA',
+0|value1-u |     reason: 'NA',
+0|value1-u |     metadata: { payment_id: 'LQ7xY9U0XBTrVd' }
+0|value1-u |   }
+0|value1-u | }
+0|value1-u | {
+0|value1-u |   statusCode: 400,
+0|value1-u |   error: {
+0|value1-u |     code: 'BAD_REQUEST_ERROR',
+0|value1-u |     description: 'The payment has been fully refunded already',
+0|value1-u |     source: 'NA',
+0|value1-u |     step: 'NA',
+0|value1-u |     reason: 'NA',
+0|value1-u |     metadata: {}
+0|value1-u |   }
+0|value1-u | }
+0|value1-u | {
+0|value1-u |   statusCode: 400,
+0|value1-u |   error: {
+0|value1-u |     code: 'BAD_REQUEST_ERROR',
+0|value1-u |     description: 'The payment has been fully refunded already',
+0|value1-u |     source: 'NA',
+0|value1-u |     step: 'NA',
+0|value1-u |     reason: 'NA',
+0|value1-u |     metadata: {}
+0|value1-u |   }
+0|value1-u | }
+0|value1-u | {
+0|value1-u |   statusCode: 400,
+0|value1-u |   error: {
+0|value1-u |     code: 'BAD_REQUEST_ERROR',
+0|value1-u |     description: 'The payment has been fully refunded already',
+0|value1-u |     source: 'NA',
+0|value1-u |     step: 'NA',
+0|value1-u |     reason: 'NA',
+0|value1-u |     metadata: {}
+0|value1-u |   }
+0|value1-u | }
+0|value1-u | {
+0|value1-u |   statusCode: 400,
+0|value1-u |   error: {
+0|value1-u |     code: 'BAD_REQUEST_ERROR',
+0|value1-u |     description: 'The payment has been fully refunded already',
+0|value1-u |     source: 'NA',
+0|value1-u |     step: 'NA',
+0|value1-u |     reason: 'NA',
+0|value1-u |     metadata: {}
+0|value1-u |   }
+0|value1-u | }
+0|value1-u | {
+0|value1-u |   statusCode: 400,
+0|value1-u |   error: {
+0|value1-u |     code: 'BAD_REQUEST_ERROR',
+0|value1-u |     description: 'The payment has been fully refunded already',
+0|value1-u |     source: 'NA',
+0|value1-u |     step: 'NA',
+0|value1-u |     reason: 'NA',
+0|value1-u |     metadata: {}
+0|value1-u |   }
+0|value1-u | }
+0|value1-u | {
+0|value1-u |   statusCode: 400,
+0|value1-u |   error: {
+0|value1-u |     code: 'BAD_REQUEST_ERROR',
+0|value1-u |     description: 'The payment has been fully refunded already',
+0|value1-u |     source: 'NA',
+0|value1-u |     step: 'NA',
+0|value1-u |     reason: 'NA',
+0|value1-u |     metadata: {}
+0|value1-u |   }
+0|value1-u | }
+0|value1-u | {
+0|value1-u |   statusCode: 400,
+0|value1-u |   error: {
+0|value1-u |     code: 'BAD_REQUEST_ERROR',
+0|value1-u |     description: 'The payment has been fully refunded already',
+0|value1-u |     source: 'NA',
+0|value1-u |     step: 'NA',
+0|value1-u |     reason: 'NA',
+0|value1-u |     metadata: {}
+0|value1-u |   }
+0|value1-u | }
+0|value1-u | {
+0|value1-u |   statusCode: 400,
+0|value1-u |   error: {
+0|value1-u |     code: 'BAD_REQUEST_ERROR',
+0|value1-u |     description: 'The payment has been fully refunded already',
+0|value1-u |     source: 'NA',
+0|value1-u |     step: 'NA',
+0|value1-u |     reason: 'NA',
+0|value1-u |     metadata: {}
+0|value1-u |   }
+0|value1-u | }
+0|value1-u | {
+0|value1-u |   statusCode: 400,
+0|value1-u |   error: {
+0|value1-u |     code: 'BAD_REQUEST_ERROR',
+0|value1-u |     description: 'The payment has been fully refunded already',
+0|value1-u |     source: 'NA',
+0|value1-u |     step: 'NA',
+0|value1-u |     reason: 'NA',
+0|value1-u |     metadata: {}
+0|value1-u |   }
+0|value1-u | }
+0|value1-u | {
+0|value1-u |   statusCode: 400,
+0|value1-u |   error: {
+0|value1-u |     code: 'BAD_REQUEST_ERROR',
+0|value1-u |     description: 'The payment has been fully refunded already',
+0|value1-u |     source: 'NA',
+0|value1-u |     step: 'NA',
+0|value1-u |     reason: 'NA',
+0|value1-u |     metadata: {}
+0|value1-u |   }
+0|value1-u | }
+0|value1-u | {
+0|value1-u |   statusCode: 400,
+0|value1-u |   error: {
+0|value1-u |     code: 'BAD_REQUEST_ERROR',
+0|value1-u |     description: 'The payment has been fully refunded already',
+0|value1-u |     source: 'NA',
+0|value1-u |     step: 'NA',
+0|value1-u |     reason: 'NA',
+0|value1-u |     metadata: {}
+0|value1-u |   }
+0|value1-u | }
+0|value1-u | {
+0|value1-u |   statusCode: 400,
+0|value1-u |   error: {
+0|value1-u |     code: 'BAD_REQUEST_ERROR',
+0|value1-u |     description: 'The payment has been fully refunded already',
+0|value1-u |     source: 'NA',
+0|value1-u |     step: 'NA',
+0|value1-u |     reason: 'NA',
+0|value1-u |     metadata: {}
+0|value1-u |   }
+0|value1-u | }
+0|value1-u | Error: Release called on client which has already been released to the pool.
+0|value1-u |     at throwOnDoubleRelease (/var/www/html/value1-user-backend/node_modules/pg-pool/index.js:27:9)
+0|value1-u |     at Client.release (/var/www/html/value1-user-backend/node_modules/pg-pool/index.js:318:9)
+0|value1-u |     at /var/www/html/value1-user-backend/repository/augmont/index.js:388:18
+0|value1-u |     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+0|value1-u | Error: Release called on client which has already been released to the pool.
+0|value1-u |     at throwOnDoubleRelease (/var/www/html/value1-user-backend/node_modules/pg-pool/index.js:27:9)
+0|value1-u |     at Client.release (/var/www/html/value1-user-backend/node_modules/pg-pool/index.js:318:9)
+0|value1-u |     at /var/www/html/value1-user-backend/repository/augmont/index.js:388:18
+0|value1-u |     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+0|value1-u | {
+0|value1-u |   statusCode: 400,
+0|value1-u |   error: {
+0|value1-u |     code: 'BAD_REQUEST_ERROR',
+0|value1-u |     description: 'This payment has already been captured',
+0|value1-u |     source: 'NA',
+0|value1-u |     step: 'NA',
+0|value1-u |     reason: 'NA',
+0|value1-u |     metadata: { payment_id: 'LQu3WCPHmgOyUa' }
+0|value1-u |   }
+0|value1-u | }
+0|value1-u | ReferenceError: e is not defined
+0|value1-u |     at /var/www/html/value1-user-backend/services/augmont/index.js:365:25
+0|value1-u |     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+0|value1-u | {
+0|value1-u |   statusCode: 400,
+0|value1-u |   error: {
+0|value1-u |     code: 'BAD_REQUEST_ERROR',
+0|value1-u |     description: 'This payment has already been captured',
+0|value1-u |     source: 'NA',
+0|value1-u |     step: 'NA',
+0|value1-u |     reason: 'NA',
+0|value1-u |     metadata: { payment_id: 'LQu3ZkYQzcfRbN' }
+0|value1-u |   }
+0|value1-u | }
+0|value1-u | ReferenceError: e is not defined
+0|value1-u |     at /var/www/html/value1-user-backend/services/augmont/index.js:365:25
+0|value1-u |     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+0|value1-u | {
+0|value1-u |   statusCode: 400,
+0|value1-u |   error: {
+0|value1-u |     code: 'BAD_REQUEST_ERROR',
+0|value1-u |     description: 'The payment has been fully refunded already',
+0|value1-u |     source: 'NA',
+0|value1-u |     step: 'NA',
+0|value1-u |     reason: 'NA',
+0|value1-u |     metadata: {}
+0|value1-u |   }
+0|value1-u | }
+0|value1-u | ReferenceError: e is not defined
+0|value1-u |     at /var/www/html/value1-user-backend/services/augmont/index.js:365:25
+0|value1-u |     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+0|value1-u | {
+0|value1-u |   statusCode: 400,
+0|value1-u |   error: {
+0|value1-u |     code: 'BAD_REQUEST_ERROR',
+0|value1-u |     description: 'The payment has been fully refunded already',
+0|value1-u |     source: 'NA',
+0|value1-u |     step: 'NA',
+0|value1-u |     reason: 'NA',
+0|value1-u |     metadata: {}
+0|value1-u |   }
+0|value1-u | }
+0|value1-u | ReferenceError: e is not defined
+0|value1-u |     at /var/www/html/value1-user-backend/services/augmont/index.js:365:25
+0|value1-u |     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+0|value1-u | {
+0|value1-u |   statusCode: 400,
+0|value1-u |   error: {
+0|value1-u |     code: 'BAD_REQUEST_ERROR',
+0|value1-u |     description: 'The payment has been fully refunded already',
+0|value1-u |     source: 'NA',
+0|value1-u |     step: 'NA',
+0|value1-u |     reason: 'NA',
+0|value1-u |     metadata: {}
+0|value1-u |   }
+0|value1-u | }
+0|value1-u | ReferenceError: e is not defined
+0|value1-u |     at /var/www/html/value1-user-backend/services/augmont/index.js:365:25
+0|value1-u |     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+0|value1-u | {
+0|value1-u |   statusCode: 400,
+0|value1-u |   error: {
+0|value1-u |     code: 'BAD_REQUEST_ERROR',
+0|value1-u |     description: 'The payment has been fully refunded already',
+0|value1-u |     source: 'NA',
+0|value1-u |     step: 'NA',
+0|value1-u |     reason: 'NA',
+0|value1-u |     metadata: {}
+0|value1-u |   }
+0|value1-u | }
+0|value1-u | ReferenceError: e is not defined
+0|value1-u |     at /var/www/html/value1-user-backend/services/augmont/index.js:365:25
+0|value1-u |     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+0|value1-u | {
+0|value1-u |   statusCode: 400,
+0|value1-u |   error: {
+0|value1-u |     code: 'BAD_REQUEST_ERROR',
+0|value1-u |     description: 'The payment has been fully refunded already',
+0|value1-u |     source: 'NA',
+0|value1-u |     step: 'NA',
+0|value1-u |     reason: 'NA',
+0|value1-u |     metadata: {}
+0|value1-u |   }
+0|value1-u | }
+0|value1-u | {
+0|value1-u |   statusCode: 400,
+0|value1-u |   error: {
+0|value1-u |     code: 'BAD_REQUEST_ERROR',
+0|value1-u |     description: 'This payment has already been captured',
+0|value1-u |     source: 'NA',
+0|value1-u |     step: 'NA',
+0|value1-u |     reason: 'NA',
+0|value1-u |     metadata: { payment_id: 'LQuDAGb1QaW1Ht' }
+0|value1-u |   }
+0|value1-u | }
+0|value1-u | ReferenceError: e is not defined
+0|value1-u |     at /var/www/html/value1-user-backend/services/augmont/index.js:365:25
+0|value1-u |     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+0|value1-u | {
+0|value1-u |   statusCode: 400,
+0|value1-u |   error: {
+0|value1-u |     code: 'BAD_REQUEST_ERROR',
+0|value1-u |     description: 'The payment has been fully refunded already',
+0|value1-u |     source: 'NA',
+0|value1-u |     step: 'NA',
+0|value1-u |     reason: 'NA',
+0|value1-u |     metadata: {}
+0|value1-u |   }
+0|value1-u | }
+0|value1-u | ReferenceError: e is not defined
+0|value1-u |     at /var/www/html/value1-user-backend/services/augmont/index.js:365:25
+0|value1-u |     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+0|value1-u | {
+0|value1-u |   statusCode: 400,
+0|value1-u |   error: {
+0|value1-u |     code: 'BAD_REQUEST_ERROR',
+0|value1-u |     description: 'The payment has been fully refunded already',
+0|value1-u |     source: 'NA',
+0|value1-u |     step: 'NA',
+0|value1-u |     reason: 'NA',
+0|value1-u |     metadata: {}
+0|value1-u |   }
+0|value1-u | }
+0|value1-u | {
+0|value1-u |   statusCode: 400,
+0|value1-u |   error: {
+0|value1-u |     code: 'BAD_REQUEST_ERROR',
+0|value1-u |     description: 'This payment has already been captured',
+0|value1-u |     source: 'NA',
+0|value1-u |     step: 'NA',
+0|value1-u |     reason: 'NA',
+0|value1-u |     metadata: { payment_id: 'LQuSuah7vTTNNl' }
+0|value1-u |   }
+0|value1-u | }
+0|value1-u | ReferenceError: e is not defined
+0|value1-u |     at /var/www/html/value1-user-backend/services/augmont/index.js:365:25
+0|value1-u |     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+0|value1-u | {
+0|value1-u |   statusCode: 400,
+0|value1-u |   error: {
+0|value1-u |     code: 'BAD_REQUEST_ERROR',
+0|value1-u |     description: 'The payment has been fully refunded already',
+0|value1-u |     source: 'NA',
+0|value1-u |     step: 'NA',
+0|value1-u |     reason: 'NA',
+0|value1-u |     metadata: {}
+0|value1-u |   }
+0|value1-u | }
+0|value1-u | {
+0|value1-u |   statusCode: 400,
+0|value1-u |   error: {
+0|value1-u |     code: 'BAD_REQUEST_ERROR',
+0|value1-u |     description: 'This payment has already been captured',
+0|value1-u |     source: 'NA',
+0|value1-u |     step: 'NA',
+0|value1-u |     reason: 'NA',
+0|value1-u |     metadata: { payment_id: 'LQufSeyEK7wxcy' }
+0|value1-u |   }
+0|value1-u | }
+0|value1-u | ReferenceError: e is not defined
+0|value1-u |     at /var/www/html/value1-user-backend/services/augmont/index.js:365:25
+0|value1-u |     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+0|value1-u | {
+0|value1-u |   statusCode: 400,
+0|value1-u |   error: {
+0|value1-u |     code: 'BAD_REQUEST_ERROR',
+0|value1-u |     description: 'The payment has been fully refunded already',
+0|value1-u |     source: 'NA',
+0|value1-u |     step: 'NA',
+0|value1-u |     reason: 'NA',
+0|value1-u |     metadata: {}
+0|value1-u |   }
+0|value1-u | }
+0|value1-u | ReferenceError: e is not defined
+0|value1-u |     at /var/www/html/value1-user-backend/services/augmont/index.js:365:25
+0|value1-u |     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+0|value1-u | {
+0|value1-u |   statusCode: 400,
+0|value1-u |   error: {
+0|value1-u |     code: 'BAD_REQUEST_ERROR',
+0|value1-u |     description: 'The payment has been fully refunded already',
+0|value1-u |     source: 'NA',
+0|value1-u |     step: 'NA',
+0|value1-u |     reason: 'NA',
+0|value1-u |     metadata: {}
+0|value1-u |   }
+0|value1-u | }
+0|value1-u | ReferenceError: e is not defined
+0|value1-u |     at /var/www/html/value1-user-backend/services/augmont/index.js:365:25
+0|value1-u |     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+0|value1-u | {
+0|value1-u |   statusCode: 400,
+0|value1-u |   error: {
+0|value1-u |     code: 'BAD_REQUEST_ERROR',
+0|value1-u |     description: 'The payment has been fully refunded already',
+0|value1-u |     source: 'NA',
+0|value1-u |     step: 'NA',
+0|value1-u |     reason: 'NA',
+0|value1-u |     metadata: {}
+0|value1-u |   }
+0|value1-u | }
+0|value1-u | Error: Cannot find module 'xlsx'
+0|value1-u | Require stack:
+0|value1-u | - /var/www/html/value1-user-backend/handlers/user/index.js
+0|value1-u | - /var/www/html/value1-user-backend/routes/user.js
+0|value1-u | - /var/www/html/value1-user-backend/routes/routes.js
+0|value1-u | - /var/www/html/value1-user-backend/index.js
+0|value1-u |     at Module._resolveFilename (node:internal/modules/cjs/loader:1039:15)
+0|value1-u |     at Hook._require.Module.require (/home/ubuntu/.nvm/versions/node/v19.2.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+0|value1-u |     at require (node:internal/modules/cjs/helpers:103:18)
+0|value1-u |     at Object.<anonymous> (/var/www/html/value1-user-backend/handlers/user/index.js:6:14)
+0|value1-u |     at Module._compile (node:internal/modules/cjs/loader:1218:14)
+0|value1-u |     at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+0|value1-u |     at Module.load (node:internal/modules/cjs/loader:1081:32)
+0|value1-u |     at Module._load (node:internal/modules/cjs/loader:922:12)
+0|value1-u |     at Module.require (node:internal/modules/cjs/loader:1105:19)
+0|value1-u |     at Hook._require.Module.require (/home/ubuntu/.nvm/versions/node/v19.2.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+0|value1-u |     at require (node:internal/modules/cjs/helpers:103:18)
+0|value1-u |     at Object.<anonymous> (/var/www/html/value1-user-backend/routes/user.js:3:21)
+0|value1-u |     at Module._compile (node:internal/modules/cjs/loader:1218:14)
+0|value1-u |     at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+0|value1-u |     at Module.load (node:internal/modules/cjs/loader:1081:32)
+0|value1-u |     at Module._load (node:internal/modules/cjs/loader:922:12)
+0|value1-u |     at Module.require (node:internal/modules/cjs/loader:1105:19)
+0|value1-u |     at Hook._require.Module.require (/home/ubuntu/.nvm/versions/node/v19.2.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+0|value1-u |     at require (node:internal/modules/cjs/helpers:103:18)
+0|value1-u |     at Object.<anonymous> (/var/www/html/value1-user-backend/routes/routes.js:6:24)
+0|value1-u |     at Module._compile (node:internal/modules/cjs/loader:1218:14)
+0|value1-u |     at Module._extensions..js (node:internal/modules/cjs/loader:1272:10) {
+0|value1-u |   code: 'MODULE_NOT_FOUND',
+0|value1-u |   requireStack: [
+0|value1-u |     '/var/www/html/value1-user-backend/handlers/user/index.js',
+0|value1-u |     '/var/www/html/value1-user-backend/routes/user.js',
+0|value1-u |     '/var/www/html/value1-user-backend/routes/routes.js',
+0|value1-u |     '/var/www/html/value1-user-backend/index.js'
+0|value1-u |   ]
+0|value1-u | }
+0|value1-u | Error: Cannot find module 'xlsx'
+0|value1-u | Require stack:
+0|value1-u | - /var/www/html/value1-user-backend/handlers/user/index.js
+0|value1-u | - /var/www/html/value1-user-backend/routes/user.js
+0|value1-u | - /var/www/html/value1-user-backend/routes/routes.js
+0|value1-u | - /var/www/html/value1-user-backend/index.js
+0|value1-u |     at Module._resolveFilename (node:internal/modules/cjs/loader:1039:15)
+0|value1-u |     at Hook._require.Module.require (/home/ubuntu/.nvm/versions/node/v19.2.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+0|value1-u |     at require (node:internal/modules/cjs/helpers:103:18)
+0|value1-u |     at Object.<anonymous> (/var/www/html/value1-user-backend/handlers/user/index.js:6:14)
+0|value1-u |     at Module._compile (node:internal/modules/cjs/loader:1218:14)
+0|value1-u |     at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+0|value1-u |     at Module.load (node:internal/modules/cjs/loader:1081:32)
+0|value1-u |     at Module._load (node:internal/modules/cjs/loader:922:12)
+0|value1-u |     at Module.require (node:internal/modules/cjs/loader:1105:19)
+0|value1-u |     at Hook._require.Module.require (/home/ubuntu/.nvm/versions/node/v19.2.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+0|value1-u |     at require (node:internal/modules/cjs/helpers:103:18)
+0|value1-u |     at Object.<anonymous> (/var/www/html/value1-user-backend/routes/user.js:3:21)
+0|value1-u |     at Module._compile (node:internal/modules/cjs/loader:1218:14)
+0|value1-u |     at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+0|value1-u |     at Module.load (node:internal/modules/cjs/loader:1081:32)
+0|value1-u |     at Module._load (node:internal/modules/cjs/loader:922:12)
+0|value1-u |     at Module.require (node:internal/modules/cjs/loader:1105:19)
+0|value1-u |     at Hook._require.Module.require (/home/ubuntu/.nvm/versions/node/v19.2.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+0|value1-u |     at require (node:internal/modules/cjs/helpers:103:18)
+0|value1-u |     at Object.<anonymous> (/var/www/html/value1-user-backend/routes/routes.js:6:24)
+0|value1-u |     at Module._compile (node:internal/modules/cjs/loader:1218:14)
+0|value1-u |     at Module._extensions..js (node:internal/modules/cjs/loader:1272:10) {
+0|value1-u |   code: 'MODULE_NOT_FOUND',
+0|value1-u |   requireStack: [
+0|value1-u |     '/var/www/html/value1-user-backend/handlers/user/index.js',
+0|value1-u |     '/var/www/html/value1-user-backend/routes/user.js',
+0|value1-u |     '/var/www/html/value1-user-backend/routes/routes.js',
+0|value1-u |     '/var/www/html/value1-user-backend/index.js'
+0|value1-u |   ]
+0|value1-u | }
+0|value1-u | Error: Cannot find module 'xlsx'
+0|value1-u | Require stack:
+0|value1-u | - /var/www/html/value1-user-backend/handlers/user/index.js
+0|value1-u | - /var/www/html/value1-user-backend/routes/user.js
+0|value1-u | - /var/www/html/value1-user-backend/routes/routes.js
+0|value1-u | - /var/www/html/value1-user-backend/index.js
+0|value1-u |     at Module._resolveFilename (node:internal/modules/cjs/loader:1039:15)
+0|value1-u |     at Hook._require.Module.require (/home/ubuntu/.nvm/versions/node/v19.2.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+0|value1-u |     at require (node:internal/modules/cjs/helpers:103:18)
+0|value1-u |     at Object.<anonymous> (/var/www/html/value1-user-backend/handlers/user/index.js:6:14)
+0|value1-u |     at Module._compile (node:internal/modules/cjs/loader:1218:14)
+0|value1-u |     at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+0|value1-u |     at Module.load (node:internal/modules/cjs/loader:1081:32)
+0|value1-u |     at Module._load (node:internal/modules/cjs/loader:922:12)
+0|value1-u |     at Module.require (node:internal/modules/cjs/loader:1105:19)
+0|value1-u |     at Hook._require.Module.require (/home/ubuntu/.nvm/versions/node/v19.2.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+0|value1-u |     at require (node:internal/modules/cjs/helpers:103:18)
+0|value1-u |     at Object.<anonymous> (/var/www/html/value1-user-backend/routes/user.js:3:21)
+0|value1-u |     at Module._compile (node:internal/modules/cjs/loader:1218:14)
+0|value1-u |     at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+0|value1-u |     at Module.load (node:internal/modules/cjs/loader:1081:32)
+0|value1-u |     at Module._load (node:internal/modules/cjs/loader:922:12)
+0|value1-u |     at Module.require (node:internal/modules/cjs/loader:1105:19)
+0|value1-u |     at Hook._require.Module.require (/home/ubuntu/.nvm/versions/node/v19.2.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+0|value1-u |     at require (node:internal/modules/cjs/helpers:103:18)
+0|value1-u |     at Object.<anonymous> (/var/www/html/value1-user-backend/routes/routes.js:6:24)
+0|value1-u |     at Module._compile (node:internal/modules/cjs/loader:1218:14)
+0|value1-u |     at Module._extensions..js (node:internal/modules/cjs/loader:1272:10) {
+0|value1-u |   code: 'MODULE_NOT_FOUND',
+0|value1-u |   requireStack: [
+0|value1-u |     '/var/www/html/value1-user-backend/handlers/user/index.js',
+0|value1-u |     '/var/www/html/value1-user-backend/routes/user.js',
+0|value1-u |     '/var/www/html/value1-user-backend/routes/routes.js',
+0|value1-u |     '/var/www/html/value1-user-backend/index.js'
+0|value1-u |   ]
+0|value1-u | }
+0|value1-u | Error: Cannot find module 'xlsx'
+0|value1-u | Require stack:
+0|value1-u | - /var/www/html/value1-user-backend/handlers/user/index.js
+0|value1-u | - /var/www/html/value1-user-backend/routes/user.js
+0|value1-u | - /var/www/html/value1-user-backend/routes/routes.js
+0|value1-u | - /var/www/html/value1-user-backend/index.js
+0|value1-u |     at Module._resolveFilename (node:internal/modules/cjs/loader:1039:15)
+0|value1-u |     at Hook._require.Module.require (/home/ubuntu/.nvm/versions/node/v19.2.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+0|value1-u |     at require (node:internal/modules/cjs/helpers:103:18)
+0|value1-u |     at Object.<anonymous> (/var/www/html/value1-user-backend/handlers/user/index.js:6:14)
+0|value1-u |     at Module._compile (node:internal/modules/cjs/loader:1218:14)
+0|value1-u |     at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+0|value1-u |     at Module.load (node:internal/modules/cjs/loader:1081:32)
+0|value1-u |     at Module._load (node:internal/modules/cjs/loader:922:12)
+0|value1-u |     at Module.require (node:internal/modules/cjs/loader:1105:19)
+0|value1-u |     at Hook._require.Module.require (/home/ubuntu/.nvm/versions/node/v19.2.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+0|value1-u |     at require (node:internal/modules/cjs/helpers:103:18)
+0|value1-u |     at Object.<anonymous> (/var/www/html/value1-user-backend/routes/user.js:3:21)
+0|value1-u |     at Module._compile (node:internal/modules/cjs/loader:1218:14)
+0|value1-u |     at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+0|value1-u |     at Module.load (node:internal/modules/cjs/loader:1081:32)
+0|value1-u |     at Module._load (node:internal/modules/cjs/loader:922:12)
+0|value1-u |     at Module.require (node:internal/modules/cjs/loader:1105:19)
+0|value1-u |     at Hook._require.Module.require (/home/ubuntu/.nvm/versions/node/v19.2.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+0|value1-u |     at require (node:internal/modules/cjs/helpers:103:18)
+0|value1-u |     at Object.<anonymous> (/var/www/html/value1-user-backend/routes/routes.js:6:24)
+0|value1-u |     at Module._compile (node:internal/modules/cjs/loader:1218:14)
+0|value1-u |     at Module._extensions..js (node:internal/modules/cjs/loader:1272:10) {
+0|value1-u |   code: 'MODULE_NOT_FOUND',
+0|value1-u |   requireStack: [
+0|value1-u |     '/var/www/html/value1-user-backend/handlers/user/index.js',
+0|value1-u |     '/var/www/html/value1-user-backend/routes/user.js',
+0|value1-u |     '/var/www/html/value1-user-backend/routes/routes.js',
+0|value1-u |     '/var/www/html/value1-user-backend/index.js'
+0|value1-u |   ]
+0|value1-u | }
+0|value1-u | Error: Cannot find module 'xlsx'
+0|value1-u | Require stack:
+0|value1-u | - /var/www/html/value1-user-backend/handlers/user/index.js
+0|value1-u | - /var/www/html/value1-user-backend/routes/user.js
+0|value1-u | - /var/www/html/value1-user-backend/routes/routes.js
+0|value1-u | - /var/www/html/value1-user-backend/index.js
+0|value1-u |     at Module._resolveFilename (node:internal/modules/cjs/loader:1039:15)
+0|value1-u |     at Hook._require.Module.require (/home/ubuntu/.nvm/versions/node/v19.2.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+0|value1-u |     at require (node:internal/modules/cjs/helpers:103:18)
+0|value1-u |     at Object.<anonymous> (/var/www/html/value1-user-backend/handlers/user/index.js:6:14)
+0|value1-u |     at Module._compile (node:internal/modules/cjs/loader:1218:14)
+0|value1-u |     at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+0|value1-u |     at Module.load (node:internal/modules/cjs/loader:1081:32)
+0|value1-u |     at Module._load (node:internal/modules/cjs/loader:922:12)
+0|value1-u |     at Module.require (node:internal/modules/cjs/loader:1105:19)
+0|value1-u |     at Hook._require.Module.require (/home/ubuntu/.nvm/versions/node/v19.2.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+0|value1-u |     at require (node:internal/modules/cjs/helpers:103:18)
+0|value1-u |     at Object.<anonymous> (/var/www/html/value1-user-backend/routes/user.js:3:21)
+0|value1-u |     at Module._compile (node:internal/modules/cjs/loader:1218:14)
+0|value1-u |     at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+0|value1-u |     at Module.load (node:internal/modules/cjs/loader:1081:32)
+0|value1-u |     at Module._load (node:internal/modules/cjs/loader:922:12)
+0|value1-u |     at Module.require (node:internal/modules/cjs/loader:1105:19)
+0|value1-u |     at Hook._require.Module.require (/home/ubuntu/.nvm/versions/node/v19.2.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+0|value1-u |     at require (node:internal/modules/cjs/helpers:103:18)
+0|value1-u |     at Object.<anonymous> (/var/www/html/value1-user-backend/routes/routes.js:6:24)
+0|value1-u |     at Module._compile (node:internal/modules/cjs/loader:1218:14)
+0|value1-u |     at Module._extensions..js (node:internal/modules/cjs/loader:1272:10) {
+0|value1-u |   code: 'MODULE_NOT_FOUND',
+0|value1-u |   requireStack: [
+0|value1-u |     '/var/www/html/value1-user-backend/handlers/user/index.js',
+0|value1-u |     '/var/www/html/value1-user-backend/routes/user.js',
+0|value1-u |     '/var/www/html/value1-user-backend/routes/routes.js',
+0|value1-u |     '/var/www/html/value1-user-backend/index.js'
+0|value1-u |   ]
+0|value1-u | }
+0|value1-u | Error: Cannot find module 'xlsx'
+0|value1-u | Require stack:
+0|value1-u | - /var/www/html/value1-user-backend/handlers/user/index.js
+0|value1-u | - /var/www/html/value1-user-backend/routes/user.js
+0|value1-u | - /var/www/html/value1-user-backend/routes/routes.js
+0|value1-u | - /var/www/html/value1-user-backend/index.js
+0|value1-u |     at Module._resolveFilename (node:internal/modules/cjs/loader:1039:15)
+0|value1-u |     at Hook._require.Module.require (/home/ubuntu/.nvm/versions/node/v19.2.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+0|value1-u |     at require (node:internal/modules/cjs/helpers:103:18)
+0|value1-u |     at Object.<anonymous> (/var/www/html/value1-user-backend/handlers/user/index.js:6:14)
+0|value1-u |     at Module._compile (node:internal/modules/cjs/loader:1218:14)
+0|value1-u |     at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+0|value1-u |     at Module.load (node:internal/modules/cjs/loader:1081:32)
+0|value1-u |     at Module._load (node:internal/modules/cjs/loader:922:12)
+0|value1-u |     at Module.require (node:internal/modules/cjs/loader:1105:19)
+0|value1-u |     at Hook._require.Module.require (/home/ubuntu/.nvm/versions/node/v19.2.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+0|value1-u |     at require (node:internal/modules/cjs/helpers:103:18)
+0|value1-u |     at Object.<anonymous> (/var/www/html/value1-user-backend/routes/user.js:3:21)
+0|value1-u |     at Module._compile (node:internal/modules/cjs/loader:1218:14)
+0|value1-u |     at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+0|value1-u |     at Module.load (node:internal/modules/cjs/loader:1081:32)
+0|value1-u |     at Module._load (node:internal/modules/cjs/loader:922:12)
+0|value1-u |     at Module.require (node:internal/modules/cjs/loader:1105:19)
+0|value1-u |     at Hook._require.Module.require (/home/ubuntu/.nvm/versions/node/v19.2.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+0|value1-u |     at require (node:internal/modules/cjs/helpers:103:18)
+0|value1-u |     at Object.<anonymous> (/var/www/html/value1-user-backend/routes/routes.js:6:24)
+0|value1-u |     at Module._compile (node:internal/modules/cjs/loader:1218:14)
+0|value1-u |     at Module._extensions..js (node:internal/modules/cjs/loader:1272:10) {
+0|value1-u |   code: 'MODULE_NOT_FOUND',
+0|value1-u |   requireStack: [
+0|value1-u |     '/var/www/html/value1-user-backend/handlers/user/index.js',
+0|value1-u |     '/var/www/html/value1-user-backend/routes/user.js',
+0|value1-u |     '/var/www/html/value1-user-backend/routes/routes.js',
+0|value1-u |     '/var/www/html/value1-user-backend/index.js'
+0|value1-u |   ]
+0|value1-u | }
+0|value1-u | Error: Cannot find module 'xlsx'
+0|value1-u | Require stack:
+0|value1-u | - /var/www/html/value1-user-backend/handlers/user/index.js
+0|value1-u | - /var/www/html/value1-user-backend/routes/user.js
+0|value1-u | - /var/www/html/value1-user-backend/routes/routes.js
+0|value1-u | - /var/www/html/value1-user-backend/index.js
+0|value1-u |     at Module._resolveFilename (node:internal/modules/cjs/loader:1039:15)
+0|value1-u |     at Hook._require.Module.require (/home/ubuntu/.nvm/versions/node/v19.2.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+0|value1-u |     at require (node:internal/modules/cjs/helpers:103:18)
+0|value1-u |     at Object.<anonymous> (/var/www/html/value1-user-backend/handlers/user/index.js:6:14)
+0|value1-u |     at Module._compile (node:internal/modules/cjs/loader:1218:14)
+0|value1-u |     at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+0|value1-u |     at Module.load (node:internal/modules/cjs/loader:1081:32)
+0|value1-u |     at Module._load (node:internal/modules/cjs/loader:922:12)
+0|value1-u |     at Module.require (node:internal/modules/cjs/loader:1105:19)
+0|value1-u |     at Hook._require.Module.require (/home/ubuntu/.nvm/versions/node/v19.2.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+0|value1-u |     at require (node:internal/modules/cjs/helpers:103:18)
+0|value1-u |     at Object.<anonymous> (/var/www/html/value1-user-backend/routes/user.js:3:21)
+0|value1-u |     at Module._compile (node:internal/modules/cjs/loader:1218:14)
+0|value1-u |     at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+0|value1-u |     at Module.load (node:internal/modules/cjs/loader:1081:32)
+0|value1-u |     at Module._load (node:internal/modules/cjs/loader:922:12)
+0|value1-u |     at Module.require (node:internal/modules/cjs/loader:1105:19)
+0|value1-u |     at Hook._require.Module.require (/home/ubuntu/.nvm/versions/node/v19.2.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+0|value1-u |     at require (node:internal/modules/cjs/helpers:103:18)
+0|value1-u |     at Object.<anonymous> (/var/www/html/value1-user-backend/routes/routes.js:6:24)
+0|value1-u |     at Module._compile (node:internal/modules/cjs/loader:1218:14)
+0|value1-u |     at Module._extensions..js (node:internal/modules/cjs/loader:1272:10) {
+0|value1-u |   code: 'MODULE_NOT_FOUND',
+0|value1-u |   requireStack: [
+0|value1-u |     '/var/www/html/value1-user-backend/handlers/user/index.js',
+0|value1-u |     '/var/www/html/value1-user-backend/routes/user.js',
+0|value1-u |     '/var/www/html/value1-user-backend/routes/routes.js',
+0|value1-u |     '/var/www/html/value1-user-backend/index.js'
+0|value1-u |   ]
+0|value1-u | }
+0|value1-u | Error: Cannot find module 'xlsx'
+0|value1-u | Require stack:
+0|value1-u | - /var/www/html/value1-user-backend/handlers/user/index.js
+0|value1-u | - /var/www/html/value1-user-backend/routes/user.js
+0|value1-u | - /var/www/html/value1-user-backend/routes/routes.js
+0|value1-u | - /var/www/html/value1-user-backend/index.js
+0|value1-u |     at Module._resolveFilename (node:internal/modules/cjs/loader:1039:15)
+0|value1-u |     at Hook._require.Module.require (/home/ubuntu/.nvm/versions/node/v19.2.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+0|value1-u |     at require (node:internal/modules/cjs/helpers:103:18)
+0|value1-u |     at Object.<anonymous> (/var/www/html/value1-user-backend/handlers/user/index.js:6:14)
+0|value1-u |     at Module._compile (node:internal/modules/cjs/loader:1218:14)
+0|value1-u |     at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+0|value1-u |     at Module.load (node:internal/modules/cjs/loader:1081:32)
+0|value1-u |     at Module._load (node:internal/modules/cjs/loader:922:12)
+0|value1-u |     at Module.require (node:internal/modules/cjs/loader:1105:19)
+0|value1-u |     at Hook._require.Module.require (/home/ubuntu/.nvm/versions/node/v19.2.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+0|value1-u |     at require (node:internal/modules/cjs/helpers:103:18)
+0|value1-u |     at Object.<anonymous> (/var/www/html/value1-user-backend/routes/user.js:3:21)
+0|value1-u |     at Module._compile (node:internal/modules/cjs/loader:1218:14)
+0|value1-u |     at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+0|value1-u |     at Module.load (node:internal/modules/cjs/loader:1081:32)
+0|value1-u |     at Module._load (node:internal/modules/cjs/loader:922:12)
+0|value1-u |     at Module.require (node:internal/modules/cjs/loader:1105:19)
+0|value1-u |     at Hook._require.Module.require (/home/ubuntu/.nvm/versions/node/v19.2.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+0|value1-u |     at require (node:internal/modules/cjs/helpers:103:18)
+0|value1-u |     at Object.<anonymous> (/var/www/html/value1-user-backend/routes/routes.js:6:24)
+0|value1-u |     at Module._compile (node:internal/modules/cjs/loader:1218:14)
+0|value1-u |     at Module._extensions..js (node:internal/modules/cjs/loader:1272:10) {
+0|value1-u |   code: 'MODULE_NOT_FOUND',
+0|value1-u |   requireStack: [
+0|value1-u |     '/var/www/html/value1-user-backend/handlers/user/index.js',
+0|value1-u |     '/var/www/html/value1-user-backend/routes/user.js',
+0|value1-u |     '/var/www/html/value1-user-backend/routes/routes.js',
+0|value1-u |     '/var/www/html/value1-user-backend/index.js'
+0|value1-u |   ]
+0|value1-u | }
+0|value1-u | Error: Cannot find module 'xlsx'
+0|value1-u | Require stack:
+0|value1-u | - /var/www/html/value1-user-backend/handlers/user/index.js
+0|value1-u | - /var/www/html/value1-user-backend/routes/user.js
+0|value1-u | - /var/www/html/value1-user-backend/routes/routes.js
+0|value1-u | - /var/www/html/value1-user-backend/index.js
+0|value1-u |     at Module._resolveFilename (node:internal/modules/cjs/loader:1039:15)
+0|value1-u |     at Hook._require.Module.require (/home/ubuntu/.nvm/versions/node/v19.2.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+0|value1-u |     at require (node:internal/modules/cjs/helpers:103:18)
+0|value1-u |     at Object.<anonymous> (/var/www/html/value1-user-backend/handlers/user/index.js:6:14)
+0|value1-u |     at Module._compile (node:internal/modules/cjs/loader:1218:14)
+0|value1-u |     at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+0|value1-u |     at Module.load (node:internal/modules/cjs/loader:1081:32)
+0|value1-u |     at Module._load (node:internal/modules/cjs/loader:922:12)
+0|value1-u |     at Module.require (node:internal/modules/cjs/loader:1105:19)
+0|value1-u |     at Hook._require.Module.require (/home/ubuntu/.nvm/versions/node/v19.2.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+0|value1-u |     at require (node:internal/modules/cjs/helpers:103:18)
+0|value1-u |     at Object.<anonymous> (/var/www/html/value1-user-backend/routes/user.js:3:21)
+0|value1-u |     at Module._compile (node:internal/modules/cjs/loader:1218:14)
+0|value1-u |     at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+0|value1-u |     at Module.load (node:internal/modules/cjs/loader:1081:32)
+0|value1-u |     at Module._load (node:internal/modules/cjs/loader:922:12)
+0|value1-u |     at Module.require (node:internal/modules/cjs/loader:1105:19)
+0|value1-u |     at Hook._require.Module.require (/home/ubuntu/.nvm/versions/node/v19.2.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+0|value1-u |     at require (node:internal/modules/cjs/helpers:103:18)
+0|value1-u |     at Object.<anonymous> (/var/www/html/value1-user-backend/routes/routes.js:6:24)
+0|value1-u |     at Module._compile (node:internal/modules/cjs/loader:1218:14)
+0|value1-u |     at Module._extensions..js (node:internal/modules/cjs/loader:1272:10) {
+0|value1-u |   code: 'MODULE_NOT_FOUND',
+0|value1-u |   requireStack: [
+0|value1-u |     '/var/www/html/value1-user-backend/handlers/user/index.js',
+0|value1-u |     '/var/www/html/value1-user-backend/routes/user.js',
+0|value1-u |     '/var/www/html/value1-user-backend/routes/routes.js',
+0|value1-u |     '/var/www/html/value1-user-backend/index.js'
+0|value1-u |   ]
+0|value1-u | }
+0|value1-u | Error: Cannot find module 'xlsx'
+0|value1-u | Require stack:
+0|value1-u | - /var/www/html/value1-user-backend/handlers/user/index.js
+0|value1-u | - /var/www/html/value1-user-backend/routes/user.js
+0|value1-u | - /var/www/html/value1-user-backend/routes/routes.js
+0|value1-u | - /var/www/html/value1-user-backend/index.js
+0|value1-u |     at Module._resolveFilename (node:internal/modules/cjs/loader:1039:15)
+0|value1-u |     at Hook._require.Module.require (/home/ubuntu/.nvm/versions/node/v19.2.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+0|value1-u |     at require (node:internal/modules/cjs/helpers:103:18)
+0|value1-u |     at Object.<anonymous> (/var/www/html/value1-user-backend/handlers/user/index.js:6:14)
+0|value1-u |     at Module._compile (node:internal/modules/cjs/loader:1218:14)
+0|value1-u |     at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+0|value1-u |     at Module.load (node:internal/modules/cjs/loader:1081:32)
+0|value1-u |     at Module._load (node:internal/modules/cjs/loader:922:12)
+0|value1-u |     at Module.require (node:internal/modules/cjs/loader:1105:19)
+0|value1-u |     at Hook._require.Module.require (/home/ubuntu/.nvm/versions/node/v19.2.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+0|value1-u |     at require (node:internal/modules/cjs/helpers:103:18)
+0|value1-u |     at Object.<anonymous> (/var/www/html/value1-user-backend/routes/user.js:3:21)
+0|value1-u |     at Module._compile (node:internal/modules/cjs/loader:1218:14)
+0|value1-u |     at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+0|value1-u |     at Module.load (node:internal/modules/cjs/loader:1081:32)
+0|value1-u |     at Module._load (node:internal/modules/cjs/loader:922:12)
+0|value1-u |     at Module.require (node:internal/modules/cjs/loader:1105:19)
+0|value1-u |     at Hook._require.Module.require (/home/ubuntu/.nvm/versions/node/v19.2.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+0|value1-u |     at require (node:internal/modules/cjs/helpers:103:18)
+0|value1-u |     at Object.<anonymous> (/var/www/html/value1-user-backend/routes/routes.js:6:24)
+0|value1-u |     at Module._compile (node:internal/modules/cjs/loader:1218:14)
+0|value1-u |     at Module._extensions..js (node:internal/modules/cjs/loader:1272:10) {
+0|value1-u |   code: 'MODULE_NOT_FOUND',
+0|value1-u |   requireStack: [
+0|value1-u |     '/var/www/html/value1-user-backend/handlers/user/index.js',
+0|value1-u |     '/var/www/html/value1-user-backend/routes/user.js',
+0|value1-u |     '/var/www/html/value1-user-backend/routes/routes.js',
+0|value1-u |     '/var/www/html/value1-user-backend/index.js'
+0|value1-u |   ]
+0|value1-u | }
+0|value1-u | Error: Cannot find module 'xlsx'
+0|value1-u | Require stack:
+0|value1-u | - /var/www/html/value1-user-backend/handlers/user/index.js
+0|value1-u | - /var/www/html/value1-user-backend/routes/user.js
+0|value1-u | - /var/www/html/value1-user-backend/routes/routes.js
+0|value1-u | - /var/www/html/value1-user-backend/index.js
+0|value1-u |     at Module._resolveFilename (node:internal/modules/cjs/loader:1039:15)
+0|value1-u |     at Hook._require.Module.require (/home/ubuntu/.nvm/versions/node/v19.2.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+0|value1-u |     at require (node:internal/modules/cjs/helpers:103:18)
+0|value1-u |     at Object.<anonymous> (/var/www/html/value1-user-backend/handlers/user/index.js:6:14)
+0|value1-u |     at Module._compile (node:internal/modules/cjs/loader:1218:14)
+0|value1-u |     at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+0|value1-u |     at Module.load (node:internal/modules/cjs/loader:1081:32)
+0|value1-u |     at Module._load (node:internal/modules/cjs/loader:922:12)
+0|value1-u |     at Module.require (node:internal/modules/cjs/loader:1105:19)
+0|value1-u |     at Hook._require.Module.require (/home/ubuntu/.nvm/versions/node/v19.2.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+0|value1-u |     at require (node:internal/modules/cjs/helpers:103:18)
+0|value1-u |     at Object.<anonymous> (/var/www/html/value1-user-backend/routes/user.js:3:21)
+0|value1-u |     at Module._compile (node:internal/modules/cjs/loader:1218:14)
+0|value1-u |     at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+0|value1-u |     at Module.load (node:internal/modules/cjs/loader:1081:32)
+0|value1-u |     at Module._load (node:internal/modules/cjs/loader:922:12)
+0|value1-u |     at Module.require (node:internal/modules/cjs/loader:1105:19)
+0|value1-u |     at Hook._require.Module.require (/home/ubuntu/.nvm/versions/node/v19.2.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+0|value1-u |     at require (node:internal/modules/cjs/helpers:103:18)
+0|value1-u |     at Object.<anonymous> (/var/www/html/value1-user-backend/routes/routes.js:6:24)
+0|value1-u |     at Module._compile (node:internal/modules/cjs/loader:1218:14)
+0|value1-u |     at Module._extensions..js (node:internal/modules/cjs/loader:1272:10) {
+0|value1-u |   code: 'MODULE_NOT_FOUND',
+0|value1-u |   requireStack: [
+0|value1-u |     '/var/www/html/value1-user-backend/handlers/user/index.js',
+0|value1-u |     '/var/www/html/value1-user-backend/routes/user.js',
+0|value1-u |     '/var/www/html/value1-user-backend/routes/routes.js',
+0|value1-u |     '/var/www/html/value1-user-backend/index.js'
+0|value1-u |   ]
+0|value1-u | }
+0|value1-u | Error: Cannot find module 'xlsx'
+0|value1-u | Require stack:
+0|value1-u | - /var/www/html/value1-user-backend/handlers/user/index.js
+0|value1-u | - /var/www/html/value1-user-backend/routes/user.js
+0|value1-u | - /var/www/html/value1-user-backend/routes/routes.js
+0|value1-u | - /var/www/html/value1-user-backend/index.js
+0|value1-u |     at Module._resolveFilename (node:internal/modules/cjs/loader:1039:15)
+0|value1-u |     at Hook._require.Module.require (/home/ubuntu/.nvm/versions/node/v19.2.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+0|value1-u |     at require (node:internal/modules/cjs/helpers:103:18)
+0|value1-u |     at Object.<anonymous> (/var/www/html/value1-user-backend/handlers/user/index.js:6:14)
+0|value1-u |     at Module._compile (node:internal/modules/cjs/loader:1218:14)
+0|value1-u |     at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+0|value1-u |     at Module.load (node:internal/modules/cjs/loader:1081:32)
+0|value1-u |     at Module._load (node:internal/modules/cjs/loader:922:12)
+0|value1-u |     at Module.require (node:internal/modules/cjs/loader:1105:19)
+0|value1-u |     at Hook._require.Module.require (/home/ubuntu/.nvm/versions/node/v19.2.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+0|value1-u |     at require (node:internal/modules/cjs/helpers:103:18)
+0|value1-u |     at Object.<anonymous> (/var/www/html/value1-user-backend/routes/user.js:3:21)
+0|value1-u |     at Module._compile (node:internal/modules/cjs/loader:1218:14)
+0|value1-u |     at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+0|value1-u |     at Module.load (node:internal/modules/cjs/loader:1081:32)
+0|value1-u |     at Module._load (node:internal/modules/cjs/loader:922:12)
+0|value1-u |     at Module.require (node:internal/modules/cjs/loader:1105:19)
+0|value1-u |     at Hook._require.Module.require (/home/ubuntu/.nvm/versions/node/v19.2.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+0|value1-u |     at require (node:internal/modules/cjs/helpers:103:18)
+0|value1-u |     at Object.<anonymous> (/var/www/html/value1-user-backend/routes/routes.js:6:24)
+0|value1-u |     at Module._compile (node:internal/modules/cjs/loader:1218:14)
+0|value1-u |     at Module._extensions..js (node:internal/modules/cjs/loader:1272:10) {
+0|value1-u |   code: 'MODULE_NOT_FOUND',
+0|value1-u |   requireStack: [
+0|value1-u |     '/var/www/html/value1-user-backend/handlers/user/index.js',
+0|value1-u |     '/var/www/html/value1-user-backend/routes/user.js',
+0|value1-u |     '/var/www/html/value1-user-backend/routes/routes.js',
+0|value1-u |     '/var/www/html/value1-user-backend/index.js'
+0|value1-u |   ]
+0|value1-u | }
+0|value1-u | Error: Cannot find module 'xlsx'
+0|value1-u | Require stack:
+0|value1-u | - /var/www/html/value1-user-backend/handlers/user/index.js
+0|value1-u | - /var/www/html/value1-user-backend/routes/user.js
+0|value1-u | - /var/www/html/value1-user-backend/routes/routes.js
+0|value1-u | - /var/www/html/value1-user-backend/index.js
+0|value1-u |     at Module._resolveFilename (node:internal/modules/cjs/loader:1039:15)
+0|value1-u |     at Hook._require.Module.require (/home/ubuntu/.nvm/versions/node/v19.2.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+0|value1-u |     at require (node:internal/modules/cjs/helpers:103:18)
+0|value1-u |     at Object.<anonymous> (/var/www/html/value1-user-backend/handlers/user/index.js:6:14)
+0|value1-u |     at Module._compile (node:internal/modules/cjs/loader:1218:14)
+0|value1-u |     at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+0|value1-u |     at Module.load (node:internal/modules/cjs/loader:1081:32)
+0|value1-u |     at Module._load (node:internal/modules/cjs/loader:922:12)
+0|value1-u |     at Module.require (node:internal/modules/cjs/loader:1105:19)
+0|value1-u |     at Hook._require.Module.require (/home/ubuntu/.nvm/versions/node/v19.2.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+0|value1-u |     at require (node:internal/modules/cjs/helpers:103:18)
+0|value1-u |     at Object.<anonymous> (/var/www/html/value1-user-backend/routes/user.js:3:21)
+0|value1-u |     at Module._compile (node:internal/modules/cjs/loader:1218:14)
+0|value1-u |     at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+0|value1-u |     at Module.load (node:internal/modules/cjs/loader:1081:32)
+0|value1-u |     at Module._load (node:internal/modules/cjs/loader:922:12)
+0|value1-u |     at Module.require (node:internal/modules/cjs/loader:1105:19)
+0|value1-u |     at Hook._require.Module.require (/home/ubuntu/.nvm/versions/node/v19.2.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+0|value1-u |     at require (node:internal/modules/cjs/helpers:103:18)
+0|value1-u |     at Object.<anonymous> (/var/www/html/value1-user-backend/routes/routes.js:6:24)
+0|value1-u |     at Module._compile (node:internal/modules/cjs/loader:1218:14)
+0|value1-u |     at Module._extensions..js (node:internal/modules/cjs/loader:1272:10) {
+0|value1-u |   code: 'MODULE_NOT_FOUND',
+0|value1-u |   requireStack: [
+0|value1-u |     '/var/www/html/value1-user-backend/handlers/user/index.js',
+0|value1-u |     '/var/www/html/value1-user-backend/routes/user.js',
+0|value1-u |     '/var/www/html/value1-user-backend/routes/routes.js',
+0|value1-u |     '/var/www/html/value1-user-backend/index.js'
+0|value1-u |   ]
+0|value1-u | }
+0|value1-u | Error: Cannot find module 'xlsx'
+0|value1-u | Require stack:
+0|value1-u | - /var/www/html/value1-user-backend/handlers/user/index.js
+0|value1-u | - /var/www/html/value1-user-backend/routes/user.js
+0|value1-u | - /var/www/html/value1-user-backend/routes/routes.js
+0|value1-u | - /var/www/html/value1-user-backend/index.js
+0|value1-u |     at Module._resolveFilename (node:internal/modules/cjs/loader:1039:15)
+0|value1-u |     at Hook._require.Module.require (/home/ubuntu/.nvm/versions/node/v19.2.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+0|value1-u |     at require (node:internal/modules/cjs/helpers:103:18)
+0|value1-u |     at Object.<anonymous> (/var/www/html/value1-user-backend/handlers/user/index.js:6:14)
+0|value1-u |     at Module._compile (node:internal/modules/cjs/loader:1218:14)
+0|value1-u |     at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+0|value1-u |     at Module.load (node:internal/modules/cjs/loader:1081:32)
+0|value1-u |     at Module._load (node:internal/modules/cjs/loader:922:12)
+0|value1-u |     at Module.require (node:internal/modules/cjs/loader:1105:19)
+0|value1-u |     at Hook._require.Module.require (/home/ubuntu/.nvm/versions/node/v19.2.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+0|value1-u |     at require (node:internal/modules/cjs/helpers:103:18)
+0|value1-u |     at Object.<anonymous> (/var/www/html/value1-user-backend/routes/user.js:3:21)
+0|value1-u |     at Module._compile (node:internal/modules/cjs/loader:1218:14)
+0|value1-u |     at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+0|value1-u |     at Module.load (node:internal/modules/cjs/loader:1081:32)
+0|value1-u |     at Module._load (node:internal/modules/cjs/loader:922:12)
+0|value1-u |     at Module.require (node:internal/modules/cjs/loader:1105:19)
+0|value1-u |     at Hook._require.Module.require (/home/ubuntu/.nvm/versions/node/v19.2.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+0|value1-u |     at require (node:internal/modules/cjs/helpers:103:18)
+0|value1-u |     at Object.<anonymous> (/var/www/html/value1-user-backend/routes/routes.js:6:24)
+0|value1-u |     at Module._compile (node:internal/modules/cjs/loader:1218:14)
+0|value1-u |     at Module._extensions..js (node:internal/modules/cjs/loader:1272:10) {
+0|value1-u |   code: 'MODULE_NOT_FOUND',
+0|value1-u |   requireStack: [
+0|value1-u |     '/var/www/html/value1-user-backend/handlers/user/index.js',
+0|value1-u |     '/var/www/html/value1-user-backend/routes/user.js',
+0|value1-u |     '/var/www/html/value1-user-backend/routes/routes.js',
+0|value1-u |     '/var/www/html/value1-user-backend/index.js'
+0|value1-u |   ]
+0|value1-u | }
+0|value1-u | Error: Cannot find module 'xlsx'
+0|value1-u | Require stack:
+0|value1-u | - /var/www/html/value1-user-backend/handlers/user/index.js
+0|value1-u | - /var/www/html/value1-user-backend/routes/user.js
+0|value1-u | - /var/www/html/value1-user-backend/routes/routes.js
+0|value1-u | - /var/www/html/value1-user-backend/index.js
+0|value1-u |     at Module._resolveFilename (node:internal/modules/cjs/loader:1039:15)
+0|value1-u |     at Hook._require.Module.require (/home/ubuntu/.nvm/versions/node/v19.2.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+0|value1-u |     at require (node:internal/modules/cjs/helpers:103:18)
+0|value1-u |     at Object.<anonymous> (/var/www/html/value1-user-backend/handlers/user/index.js:6:14)
+0|value1-u |     at Module._compile (node:internal/modules/cjs/loader:1218:14)
+0|value1-u |     at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+0|value1-u |     at Module.load (node:internal/modules/cjs/loader:1081:32)
+0|value1-u |     at Module._load (node:internal/modules/cjs/loader:922:12)
+0|value1-u |     at Module.require (node:internal/modules/cjs/loader:1105:19)
+0|value1-u |     at Hook._require.Module.require (/home/ubuntu/.nvm/versions/node/v19.2.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+0|value1-u |     at require (node:internal/modules/cjs/helpers:103:18)
+0|value1-u |     at Object.<anonymous> (/var/www/html/value1-user-backend/routes/user.js:3:21)
+0|value1-u |     at Module._compile (node:internal/modules/cjs/loader:1218:14)
+0|value1-u |     at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+0|value1-u |     at Module.load (node:internal/modules/cjs/loader:1081:32)
+0|value1-u |     at Module._load (node:internal/modules/cjs/loader:922:12)
+0|value1-u |     at Module.require (node:internal/modules/cjs/loader:1105:19)
+0|value1-u |     at Hook._require.Module.require (/home/ubuntu/.nvm/versions/node/v19.2.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+0|value1-u |     at require (node:internal/modules/cjs/helpers:103:18)
+0|value1-u |     at Object.<anonymous> (/var/www/html/value1-user-backend/routes/routes.js:6:24)
+0|value1-u |     at Module._compile (node:internal/modules/cjs/loader:1218:14)
+0|value1-u |     at Module._extensions..js (node:internal/modules/cjs/loader:1272:10) {
+0|value1-u |   code: 'MODULE_NOT_FOUND',
+0|value1-u |   requireStack: [
+0|value1-u |     '/var/www/html/value1-user-backend/handlers/user/index.js',
+0|value1-u |     '/var/www/html/value1-user-backend/routes/user.js',
+0|value1-u |     '/var/www/html/value1-user-backend/routes/routes.js',
+0|value1-u |     '/var/www/html/value1-user-backend/index.js'
+0|value1-u |   ]
+0|value1-u | }
+0|value1-u | Error: Cannot find module 'xlsx'
+0|value1-u | Require stack:
+0|value1-u | - /var/www/html/value1-user-backend/handlers/user/index.js
+0|value1-u | - /var/www/html/value1-user-backend/routes/user.js
+0|value1-u | - /var/www/html/value1-user-backend/routes/routes.js
+0|value1-u | - /var/www/html/value1-user-backend/index.js
+0|value1-u |     at Module._resolveFilename (node:internal/modules/cjs/loader:1039:15)
+0|value1-u |     at Hook._require.Module.require (/home/ubuntu/.nvm/versions/node/v19.2.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+0|value1-u |     at require (node:internal/modules/cjs/helpers:103:18)
+0|value1-u |     at Object.<anonymous> (/var/www/html/value1-user-backend/handlers/user/index.js:6:14)
+0|value1-u |     at Module._compile (node:internal/modules/cjs/loader:1218:14)
+0|value1-u |     at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+0|value1-u |     at Module.load (node:internal/modules/cjs/loader:1081:32)
+0|value1-u |     at Module._load (node:internal/modules/cjs/loader:922:12)
+0|value1-u |     at Module.require (node:internal/modules/cjs/loader:1105:19)
+0|value1-u |     at Hook._require.Module.require (/home/ubuntu/.nvm/versions/node/v19.2.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+0|value1-u |     at require (node:internal/modules/cjs/helpers:103:18)
+0|value1-u |     at Object.<anonymous> (/var/www/html/value1-user-backend/routes/user.js:3:21)
+0|value1-u |     at Module._compile (node:internal/modules/cjs/loader:1218:14)
+0|value1-u |     at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+0|value1-u |     at Module.load (node:internal/modules/cjs/loader:1081:32)
+0|value1-u |     at Module._load (node:internal/modules/cjs/loader:922:12)
+0|value1-u |     at Module.require (node:internal/modules/cjs/loader:1105:19)
+0|value1-u |     at Hook._require.Module.require (/home/ubuntu/.nvm/versions/node/v19.2.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+0|value1-u |     at require (node:internal/modules/cjs/helpers:103:18)
+0|value1-u |     at Object.<anonymous> (/var/www/html/value1-user-backend/routes/routes.js:6:24)
+0|value1-u |     at Module._compile (node:internal/modules/cjs/loader:1218:14)
+0|value1-u |     at Module._extensions..js (node:internal/modules/cjs/loader:1272:10) {
+0|value1-u |   code: 'MODULE_NOT_FOUND',
+0|value1-u |   requireStack: [
+0|value1-u |     '/var/www/html/value1-user-backend/handlers/user/index.js',
+0|value1-u |     '/var/www/html/value1-user-backend/routes/user.js',
+0|value1-u |     '/var/www/html/value1-user-backend/routes/routes.js',
+0|value1-u |     '/var/www/html/value1-user-backend/index.js'
+0|value1-u |   ]
+0|value1-u | }
+0|value1-u | Error: Cannot find module 'xlsx'
+0|value1-u | Require stack:
+0|value1-u | - /var/www/html/value1-user-backend/handlers/user/index.js
+0|value1-u | - /var/www/html/value1-user-backend/routes/user.js
+0|value1-u | - /var/www/html/value1-user-backend/routes/routes.js
+0|value1-u | - /var/www/html/value1-user-backend/index.js
+0|value1-u |     at Module._resolveFilename (node:internal/modules/cjs/loader:1039:15)
+0|value1-u |     at Hook._require.Module.require (/home/ubuntu/.nvm/versions/node/v19.2.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+0|value1-u |     at require (node:internal/modules/cjs/helpers:103:18)
+0|value1-u |     at Object.<anonymous> (/var/www/html/value1-user-backend/handlers/user/index.js:6:14)
+0|value1-u |     at Module._compile (node:internal/modules/cjs/loader:1218:14)
+0|value1-u |     at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+0|value1-u |     at Module.load (node:internal/modules/cjs/loader:1081:32)
+0|value1-u |     at Module._load (node:internal/modules/cjs/loader:922:12)
+0|value1-u |     at Module.require (node:internal/modules/cjs/loader:1105:19)
+0|value1-u |     at Hook._require.Module.require (/home/ubuntu/.nvm/versions/node/v19.2.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+0|value1-u |     at require (node:internal/modules/cjs/helpers:103:18)
+0|value1-u |     at Object.<anonymous> (/var/www/html/value1-user-backend/routes/user.js:3:21)
+0|value1-u |     at Module._compile (node:internal/modules/cjs/loader:1218:14)
+0|value1-u |     at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+0|value1-u |     at Module.load (node:internal/modules/cjs/loader:1081:32)
+0|value1-u |     at Module._load (node:internal/modules/cjs/loader:922:12)
+0|value1-u |     at Module.require (node:internal/modules/cjs/loader:1105:19)
+0|value1-u |     at Hook._require.Module.require (/home/ubuntu/.nvm/versions/node/v19.2.0/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+0|value1-u |     at require (node:internal/modules/cjs/helpers:103:18)
+0|value1-u |     at Object.<anonymous> (/var/www/html/value1-user-backend/routes/routes.js:6:24)
+0|value1-u |     at Module._compile (node:internal/modules/cjs/loader:1218:14)
+0|value1-u |     at Module._extensions..js (node:internal/modules/cjs/loader:1272:10) {
+0|value1-u |   code: 'MODULE_NOT_FOUND',
+0|value1-u |   requireStack: [
+0|value1-u |     '/var/www/html/value1-user-backend/handlers/user/index.js',
+0|value1-u |     '/var/www/html/value1-user-backend/routes/user.js',
+0|value1-u |     '/var/www/html/value1-user-backend/routes/routes.js',
+0|value1-u |     '/var/www/html/value1-user-backend/index.js'
+0|value1-u |   ]
+0|value1-u | }
+0|value1-u | ReferenceError: e is not defined
+0|value1-u |     at /var/www/html/value1-user-backend/services/augmont/index.js:365:25
+0|value1-u |     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+0|value1-u | {
+0|value1-u |   statusCode: 400,
+0|value1-u |   error: {
+0|value1-u |     code: 'BAD_REQUEST_ERROR',
+0|value1-u |     description: 'The payment has been fully refunded already',
+0|value1-u |     source: 'NA',
+0|value1-u |     step: 'NA',
+0|value1-u |     reason: 'NA',
+0|value1-u |     metadata: {}
+0|value1-u |   }
+0|value1-u | }
+
+/home/ubuntu/.pm2/logs/value1-user-backend-out.log last 1000 lines:
+0|value1-u | }
+0|value1-u | running a task every 15 secs
+0|value1-u | {"level":"info","message":"Repository: getAllToken"}
+0|value1-u | {"level":"info","message":"Repository: updateRates"}
+0|value1-u | data {
+0|value1-u |   id: 'rate',
+0|value1-u |   g_buy: '5879.89',
+0|value1-u |   g_sell: '5725.83',
+0|value1-u |   s_buy: '74.39',
+0|value1-u |   s_sell: '65.89',
+0|value1-u |   g_buy_gst: '176.40',
+0|value1-u |   s_buy_gst: '2.23',
+0|value1-u |   cgst_tax_percentage: '1.50',
+0|value1-u |   sgst_tax_percentage: '1.50',
+0|value1-u |   igst_tax_percentage: '3.00',
+0|value1-u |   block_id: 'R9aPkEN7'
+0|value1-u | }
+0|value1-u | Updated Rates Sucessfully:  {
+0|value1-u |   id: 'rate',
+0|value1-u |   g_buy: '5879.89',
+0|value1-u |   g_sell: '5725.83',
+0|value1-u |   s_buy: '74.39',
+0|value1-u |   s_sell: '65.89',
+0|value1-u |   g_buy_gst: '176.40',
+0|value1-u |   s_buy_gst: '2.23',
+0|value1-u |   cgst_tax_percentage: '1.50',
+0|value1-u |   sgst_tax_percentage: '1.50',
+0|value1-u |   igst_tax_percentage: '3.00',
+0|value1-u |   block_id: 'R9aPkEN7'
+0|value1-u | }
+0|value1-u | running a task every 15 secs
+0|value1-u | {"level":"info","message":"Repository: getAllToken"}
+0|value1-u | {"level":"info","message":"Repository: updateRates"}
+0|value1-u | data {
+0|value1-u |   id: 'rate',
+0|value1-u |   g_buy: '5879.89',
+0|value1-u |   g_sell: '5725.83',
+0|value1-u |   s_buy: '74.39',
+0|value1-u |   s_sell: '65.89',
+0|value1-u |   g_buy_gst: '176.40',
+0|value1-u |   s_buy_gst: '2.23',
+0|value1-u |   cgst_tax_percentage: '1.50',
+0|value1-u |   sgst_tax_percentage: '1.50',
+0|value1-u |   igst_tax_percentage: '3.00',
+0|value1-u |   block_id: 'a7zb46o7'
+0|value1-u | }
+0|value1-u | Updated Rates Sucessfully:  {
+0|value1-u |   id: 'rate',
+0|value1-u |   g_buy: '5879.89',
+0|value1-u |   g_sell: '5725.83',
+0|value1-u |   s_buy: '74.39',
+0|value1-u |   s_sell: '65.89',
+0|value1-u |   g_buy_gst: '176.40',
+0|value1-u |   s_buy_gst: '2.23',
+0|value1-u |   cgst_tax_percentage: '1.50',
+0|value1-u |   sgst_tax_percentage: '1.50',
+0|value1-u |   igst_tax_percentage: '3.00',
+0|value1-u |   block_id: 'a7zb46o7'
+0|value1-u | }
+0|value1-u | running a task every 15 secs
+0|value1-u | {"level":"info","message":"Repository: getAllToken"}
+0|value1-u | {"level":"info","message":"Repository: updateRates"}
+0|value1-u | data {
+0|value1-u |   id: 'rate',
+0|value1-u |   g_buy: '5879.89',
+0|value1-u |   g_sell: '5725.83',
+0|value1-u |   s_buy: '74.39',
+0|value1-u |   s_sell: '65.89',
+0|value1-u |   g_buy_gst: '176.40',
+0|value1-u |   s_buy_gst: '2.23',
+0|value1-u |   cgst_tax_percentage: '1.50',
+0|value1-u |   sgst_tax_percentage: '1.50',
+0|value1-u |   igst_tax_percentage: '3.00',
+0|value1-u |   block_id: 'd9BJ2B59'
+0|value1-u | }
+0|value1-u | Updated Rates Sucessfully:  {
+0|value1-u |   id: 'rate',
+0|value1-u |   g_buy: '5879.89',
+0|value1-u |   g_sell: '5725.83',
+0|value1-u |   s_buy: '74.39',
+0|value1-u |   s_sell: '65.89',
+0|value1-u |   g_buy_gst: '176.40',
+0|value1-u |   s_buy_gst: '2.23',
+0|value1-u |   cgst_tax_percentage: '1.50',
+0|value1-u |   sgst_tax_percentage: '1.50',
+0|value1-u |   igst_tax_percentage: '3.00',
+0|value1-u |   block_id: 'd9BJ2B59'
+0|value1-u | }
+0|value1-u | running a task every 15 secs
+0|value1-u | {"level":"info","message":"Repository: getAllToken"}
+0|value1-u | {"level":"info","message":"Repository: updateRates"}
+0|value1-u | data {
+0|value1-u |   id: 'rate',
+0|value1-u |   g_buy: '5879.89',
+0|value1-u |   g_sell: '5725.83',
+0|value1-u |   s_buy: '74.39',
+0|value1-u |   s_sell: '65.89',
+0|value1-u |   g_buy_gst: '176.40',
+0|value1-u |   s_buy_gst: '2.23',
+0|value1-u |   cgst_tax_percentage: '1.50',
+0|value1-u |   sgst_tax_percentage: '1.50',
+0|value1-u |   igst_tax_percentage: '3.00',
+0|value1-u |   block_id: 'd9BJ2B59'
+0|value1-u | }
+0|value1-u | Updated Rates Sucessfully:  {
+0|value1-u |   id: 'rate',
+0|value1-u |   g_buy: '5879.89',
+0|value1-u |   g_sell: '5725.83',
+0|value1-u |   s_buy: '74.39',
+0|value1-u |   s_sell: '65.89',
+0|value1-u |   g_buy_gst: '176.40',
+0|value1-u |   s_buy_gst: '2.23',
+0|value1-u |   cgst_tax_percentage: '1.50',
+0|value1-u |   sgst_tax_percentage: '1.50',
+0|value1-u |   igst_tax_percentage: '3.00',
+0|value1-u |   block_id: 'd9BJ2B59'
+0|value1-u | }
+0|value1-u | running a task every 15 secs
+0|value1-u | {"level":"info","message":"Repository: getAllToken"}
+0|value1-u | {"level":"info","message":"Repository: updateRates"}
+0|value1-u | data {
+0|value1-u |   id: 'rate',
+0|value1-u |   g_buy: '5879.89',
+0|value1-u |   g_sell: '5725.83',
+0|value1-u |   s_buy: '74.39',
+0|value1-u |   s_sell: '65.89',
+0|value1-u |   g_buy_gst: '176.40',
+0|value1-u |   s_buy_gst: '2.23',
+0|value1-u |   cgst_tax_percentage: '1.50',
+0|value1-u |   sgst_tax_percentage: '1.50',
+0|value1-u |   igst_tax_percentage: '3.00',
+0|value1-u |   block_id: 'd9BJ2B59'
+0|value1-u | }
+0|value1-u | Updated Rates Sucessfully:  {
+0|value1-u |   id: 'rate',
+0|value1-u |   g_buy: '5879.89',
+0|value1-u |   g_sell: '5725.83',
+0|value1-u |   s_buy: '74.39',
+0|value1-u |   s_sell: '65.89',
+0|value1-u |   g_buy_gst: '176.40',
+0|value1-u |   s_buy_gst: '2.23',
+0|value1-u |   cgst_tax_percentage: '1.50',
+0|value1-u |   sgst_tax_percentage: '1.50',
+0|value1-u |   igst_tax_percentage: '3.00',
+0|value1-u |   block_id: 'd9BJ2B59'
+0|value1-u | }
+0|value1-u | params:  { id: 'zhl6rv1OFeZ22PPeHuBfSXMF3DN2' }
+0|value1-u | query:  { pan_number: 'GMJPS2900G' }
+0|value1-u | {"level":"info","message":"Repository: checkPanNumber"}
+0|value1-u | data []
+0|value1-u | {"level":"info","message":"Handler: checkPanNumber"}
+0|value1-u | data:  { pan_exist: false, message: 'Pan Number is not exist' }
+0|value1-u | softpayapi:  {
+0|value1-u |   ref_id: null,
+0|value1-u |   error_code: 'SPC-203',
+0|value1-u |   status: 'Failure',
+0|value1-u |   message: 'Record not found',
+0|value1-u |   trans_charge: '0.50',
+0|value1-u |   data: null
+0|value1-u | }
+0|value1-u | running a task every 15 secs
+0|value1-u | {"level":"info","message":"Repository: getAllToken"}
+0|value1-u | {"level":"info","message":"Repository: updateRates"}
+0|value1-u | data {
+0|value1-u |   id: 'rate',
+0|value1-u |   g_buy: '5879.89',
+0|value1-u |   g_sell: '5725.83',
+0|value1-u |   s_buy: '74.39',
+0|value1-u |   s_sell: '65.89',
+0|value1-u |   g_buy_gst: '176.40',
+0|value1-u |   s_buy_gst: '2.23',
+0|value1-u |   cgst_tax_percentage: '1.50',
+0|value1-u |   sgst_tax_percentage: '1.50',
+0|value1-u |   igst_tax_percentage: '3.00',
+0|value1-u |   block_id: 'D9xbGe0q'
+0|value1-u | }
+0|value1-u | Updated Rates Sucessfully:  {
+0|value1-u |   id: 'rate',
+0|value1-u |   g_buy: '5879.89',
+0|value1-u |   g_sell: '5725.83',
+0|value1-u |   s_buy: '74.39',
+0|value1-u |   s_sell: '65.89',
+0|value1-u |   g_buy_gst: '176.40',
+0|value1-u |   s_buy_gst: '2.23',
+0|value1-u |   cgst_tax_percentage: '1.50',
+0|value1-u |   sgst_tax_percentage: '1.50',
+0|value1-u |   igst_tax_percentage: '3.00',
+0|value1-u |   block_id: 'D9xbGe0q'
+0|value1-u | }
+0|value1-u | running a task every 15 secs
+0|value1-u | {"level":"info","message":"Repository: getAllToken"}
+0|value1-u | {"level":"info","message":"Repository: updateRates"}
+0|value1-u | data {
+0|value1-u |   id: 'rate',
+0|value1-u |   g_buy: '5879.89',
+0|value1-u |   g_sell: '5725.83',
+0|value1-u |   s_buy: '74.39',
+0|value1-u |   s_sell: '65.89',
+0|value1-u |   g_buy_gst: '176.40',
+0|value1-u |   s_buy_gst: '2.23',
+0|value1-u |   cgst_tax_percentage: '1.50',
+0|value1-u |   sgst_tax_percentage: '1.50',
+0|value1-u |   igst_tax_percentage: '3.00',
+0|value1-u |   block_id: 'k9GEYVJq'
+0|value1-u | }
+0|value1-u | Updated Rates Sucessfully:  {
+0|value1-u |   id: 'rate',
+0|value1-u |   g_buy: '5879.89',
+0|value1-u |   g_sell: '5725.83',
+0|value1-u |   s_buy: '74.39',
+0|value1-u |   s_sell: '65.89',
+0|value1-u |   g_buy_gst: '176.40',
+0|value1-u |   s_buy_gst: '2.23',
+0|value1-u |   cgst_tax_percentage: '1.50',
+0|value1-u |   sgst_tax_percentage: '1.50',
+0|value1-u |   igst_tax_percentage: '3.00',
+0|value1-u |   block_id: 'k9GEYVJq'
+0|value1-u | }
+0|value1-u | running a task every 15 secs
+0|value1-u | {"level":"info","message":"Repository: getAllToken"}
+0|value1-u | {"level":"info","message":"Repository: updateRates"}
+0|value1-u | data {
+0|value1-u |   id: 'rate',
+0|value1-u |   g_buy: '5879.89',
+0|value1-u |   g_sell: '5725.83',
+0|value1-u |   s_buy: '74.39',
+0|value1-u |   s_sell: '65.89',
+0|value1-u |   g_buy_gst: '176.40',
+0|value1-u |   s_buy_gst: '2.23',
+0|value1-u |   cgst_tax_percentage: '1.50',
+0|value1-u |   sgst_tax_percentage: '1.50',
+0|value1-u |   igst_tax_percentage: '3.00',
+0|value1-u |   block_id: 'k9GEYVJq'
+0|value1-u | }
+0|value1-u | Updated Rates Sucessfully:  {
+0|value1-u |   id: 'rate',
+0|value1-u |   g_buy: '5879.89',
+0|value1-u |   g_sell: '5725.83',
+0|value1-u |   s_buy: '74.39',
+0|value1-u |   s_sell: '65.89',
+0|value1-u |   g_buy_gst: '176.40',
+0|value1-u |   s_buy_gst: '2.23',
+0|value1-u |   cgst_tax_percentage: '1.50',
+0|value1-u |   sgst_tax_percentage: '1.50',
+0|value1-u |   igst_tax_percentage: '3.00',
+0|value1-u |   block_id: 'k9GEYVJq'
+0|value1-u | }
+0|value1-u | running a task every 15 secs
+0|value1-u | {"level":"info","message":"Repository: getAllToken"}
+0|value1-u | {"level":"info","message":"Repository: updateRates"}
+0|value1-u | data {
+0|value1-u |   id: 'rate',
+0|value1-u |   g_buy: '5879.89',
+0|value1-u |   g_sell: '5725.83',
+0|value1-u |   s_buy: '74.39',
+0|value1-u |   s_sell: '65.89',
+0|value1-u |   g_buy_gst: '176.40',
+0|value1-u |   s_buy_gst: '2.23',
+0|value1-u |   cgst_tax_percentage: '1.50',
+0|value1-u |   sgst_tax_percentage: '1.50',
+0|value1-u |   igst_tax_percentage: '3.00',
+0|value1-u |   block_id: 'k9GEYVJq'
+0|value1-u | }
+0|value1-u | Updated Rates Sucessfully:  {
+0|value1-u |   id: 'rate',
+0|value1-u |   g_buy: '5879.89',
+0|value1-u |   g_sell: '5725.83',
+0|value1-u |   s_buy: '74.39',
+0|value1-u |   s_sell: '65.89',
+0|value1-u |   g_buy_gst: '176.40',
+0|value1-u |   s_buy_gst: '2.23',
+0|value1-u |   cgst_tax_percentage: '1.50',
+0|value1-u |   sgst_tax_percentage: '1.50',
+0|value1-u |   igst_tax_percentage: '3.00',
+0|value1-u |   block_id: 'k9GEYVJq'
+0|value1-u | }
+0|value1-u | running a task every 15 secs
+0|value1-u | {"level":"info","message":"Repository: getAllToken"}
+0|value1-u | {"level":"info","message":"Repository: updateRates"}
+0|value1-u | data {
+0|value1-u |   id: 'rate',
+0|value1-u |   g_buy: '5879.89',
+0|value1-u |   g_sell: '5725.83',
+0|value1-u |   s_buy: '74.39',
+0|value1-u |   s_sell: '65.89',
+0|value1-u |   g_buy_gst: '176.40',
+0|value1-u |   s_buy_gst: '2.23',
+0|value1-u |   cgst_tax_percentage: '1.50',
+0|value1-u |   sgst_tax_percentage: '1.50',
+0|value1-u |   igst_tax_percentage: '3.00',
+0|value1-u |   block_id: 'VX6Jn01X'
+0|value1-u | }
+0|value1-u | Updated Rates Sucessfully:  {
+0|value1-u |   id: 'rate',
+0|value1-u |   g_buy: '5879.89',
+0|value1-u |   g_sell: '5725.83',
+0|value1-u |   s_buy: '74.39',
+0|value1-u |   s_sell: '65.89',
+0|value1-u |   g_buy_gst: '176.40',
+0|value1-u |   s_buy_gst: '2.23',
+0|value1-u |   cgst_tax_percentage: '1.50',
+0|value1-u |   sgst_tax_percentage: '1.50',
+0|value1-u |   igst_tax_percentage: '3.00',
+0|value1-u |   block_id: 'VX6Jn01X'
+0|value1-u | }
+0|value1-u | running a task every 15 secs
+0|value1-u | {"level":"info","message":"Repository: getAllToken"}
+0|value1-u | {"level":"info","message":"Repository: updateRates"}
+0|value1-u | data {
+0|value1-u |   id: 'rate',
+0|value1-u |   g_buy: '5879.89',
+0|value1-u |   g_sell: '5725.83',
+0|value1-u |   s_buy: '74.39',
+0|value1-u |   s_sell: '65.89',
+0|value1-u |   g_buy_gst: '176.40',
+0|value1-u |   s_buy_gst: '2.23',
+0|value1-u |   cgst_tax_percentage: '1.50',
+0|value1-u |   sgst_tax_percentage: '1.50',
+0|value1-u |   igst_tax_percentage: '3.00',
+0|value1-u |   block_id: '1qVPx8e9'
+0|value1-u | }
+0|value1-u | Updated Rates Sucessfully:  {
+0|value1-u |   id: 'rate',
+0|value1-u |   g_buy: '5879.89',
+0|value1-u |   g_sell: '5725.83',
+0|value1-u |   s_buy: '74.39',
+0|value1-u |   s_sell: '65.89',
+0|value1-u |   g_buy_gst: '176.40',
+0|value1-u |   s_buy_gst: '2.23',
+0|value1-u |   cgst_tax_percentage: '1.50',
+0|value1-u |   sgst_tax_percentage: '1.50',
+0|value1-u |   igst_tax_percentage: '3.00',
+0|value1-u |   block_id: '1qVPx8e9'
+0|value1-u | }
+0|value1-u | running a task every 15 secs
+0|value1-u | {"level":"info","message":"Repository: getAllToken"}
+0|value1-u | {"level":"info","message":"Repository: updateRates"}
+0|value1-u | data {
+0|value1-u |   id: 'rate',
+0|value1-u |   g_buy: '5879.89',
+0|value1-u |   g_sell: '5725.83',
+0|value1-u |   s_buy: '74.39',
+0|value1-u |   s_sell: '65.89',
+0|value1-u |   g_buy_gst: '176.40',
+0|value1-u |   s_buy_gst: '2.23',
+0|value1-u |   cgst_tax_percentage: '1.50',
+0|value1-u |   sgst_tax_percentage: '1.50',
+0|value1-u |   igst_tax_percentage: '3.00',
+0|value1-u |   block_id: '1qVPx8e9'
+0|value1-u | }
+0|value1-u | Updated Rates Sucessfully:  {
+0|value1-u |   id: 'rate',
+0|value1-u |   g_buy: '5879.89',
+0|value1-u |   g_sell: '5725.83',
+0|value1-u |   s_buy: '74.39',
+0|value1-u |   s_sell: '65.89',
+0|value1-u |   g_buy_gst: '176.40',
+0|value1-u |   s_buy_gst: '2.23',
+0|value1-u |   cgst_tax_percentage: '1.50',
+0|value1-u |   sgst_tax_percentage: '1.50',
+0|value1-u |   igst_tax_percentage: '3.00',
+0|value1-u |   block_id: '1qVPx8e9'
+0|value1-u | }
+0|value1-u | running a task every 15 secs
+0|value1-u | {"level":"info","message":"Repository: getAllToken"}
+0|value1-u | {"level":"info","message":"Repository: updateRates"}
+0|value1-u | data {
+0|value1-u |   id: 'rate',
+0|value1-u |   g_buy: '5879.89',
+0|value1-u |   g_sell: '5725.83',
+0|value1-u |   s_buy: '74.39',
+0|value1-u |   s_sell: '65.89',
+0|value1-u |   g_buy_gst: '176.40',
+0|value1-u |   s_buy_gst: '2.23',
+0|value1-u |   cgst_tax_percentage: '1.50',
+0|value1-u |   sgst_tax_percentage: '1.50',
+0|value1-u |   igst_tax_percentage: '3.00',
+0|value1-u |   block_id: '1qVPx8e9'
+0|value1-u | }
+0|value1-u | Updated Rates Sucessfully:  {
+0|value1-u |   id: 'rate',
+0|value1-u |   g_buy: '5879.89',
+0|value1-u |   g_sell: '5725.83',
+0|value1-u |   s_buy: '74.39',
+0|value1-u |   s_sell: '65.89',
+0|value1-u |   g_buy_gst: '176.40',
+0|value1-u |   s_buy_gst: '2.23',
+0|value1-u |   cgst_tax_percentage: '1.50',
+0|value1-u |   sgst_tax_percentage: '1.50',
+0|value1-u |   igst_tax_percentage: '3.00',
+0|value1-u |   block_id: '1qVPx8e9'
+0|value1-u | }
+0|value1-u | running a task every 15 secs
+0|value1-u | {"level":"info","message":"Repository: getAllToken"}
+0|value1-u | {"level":"info","message":"Repository: updateRates"}
+0|value1-u | data {
+0|value1-u |   id: 'rate',
+0|value1-u |   g_buy: '5879.89',
+0|value1-u |   g_sell: '5725.83',
+0|value1-u |   s_buy: '74.39',
+0|value1-u |   s_sell: '65.89',
+0|value1-u |   g_buy_gst: '176.40',
+0|value1-u |   s_buy_gst: '2.23',
+0|value1-u |   cgst_tax_percentage: '1.50',
+0|value1-u |   sgst_tax_percentage: '1.50',
+0|value1-u |   igst_tax_percentage: '3.00',
+0|value1-u |   block_id: 'wXwbzeQ9'
+0|value1-u | }
+0|value1-u | Updated Rates Sucessfully:  {
+0|value1-u |   id: 'rate',
+0|value1-u |   g_buy: '5879.89',
+0|value1-u |   g_sell: '5725.83',
+0|value1-u |   s_buy: '74.39',
+0|value1-u |   s_sell: '65.89',
+0|value1-u |   g_buy_gst: '176.40',
+0|value1-u |   s_buy_gst: '2.23',
+0|value1-u |   cgst_tax_percentage: '1.50',
+0|value1-u |   sgst_tax_percentage: '1.50',
+0|value1-u |   igst_tax_percentage: '3.00',
+0|value1-u |   block_id: 'wXwbzeQ9'
+0|value1-u | }
+0|value1-u | running a task every 15 secs
+0|value1-u | {"level":"info","message":"Repository: getAllToken"}
+0|value1-u | {"level":"info","message":"Repository: updateRates"}
+0|value1-u | data {
+0|value1-u |   id: 'rate',
+0|value1-u |   g_buy: '5879.89',
+0|value1-u |   g_sell: '5725.83',
+0|value1-u |   s_buy: '74.39',
+0|value1-u |   s_sell: '65.89',
+0|value1-u |   g_buy_gst: '176.40',
+0|value1-u |   s_buy_gst: '2.23',
+0|value1-u |   cgst_tax_percentage: '1.50',
+0|value1-u |   sgst_tax_percentage: '1.50',
+0|value1-u |   igst_tax_percentage: '3.00',
+0|value1-u |   block_id: 'Eq3AG3G9'
+0|value1-u | }
+0|value1-u | Updated Rates Sucessfully:  {
+0|value1-u |   id: 'rate',
+0|value1-u |   g_buy: '5879.89',
+0|value1-u |   g_sell: '5725.83',
+0|value1-u |   s_buy: '74.39',
+0|value1-u |   s_sell: '65.89',
+0|value1-u |   g_buy_gst: '176.40',
+0|value1-u |   s_buy_gst: '2.23',
+0|value1-u |   cgst_tax_percentage: '1.50',
+0|value1-u |   sgst_tax_percentage: '1.50',
+0|value1-u |   igst_tax_percentage: '3.00',
+0|value1-u |   block_id: 'Eq3AG3G9'
+0|value1-u | }
+0|value1-u | running a task every 15 secs
+0|value1-u | {"level":"info","message":"Repository: getAllToken"}
+0|value1-u | {"level":"info","message":"Repository: updateRates"}
+0|value1-u | data {
+0|value1-u |   id: 'rate',
+0|value1-u |   g_buy: '5879.89',
+0|value1-u |   g_sell: '5725.83',
+0|value1-u |   s_buy: '74.39',
+0|value1-u |   s_sell: '65.89',
+0|value1-u |   g_buy_gst: '176.40',
+0|value1-u |   s_buy_gst: '2.23',
+0|value1-u |   cgst_tax_percentage: '1.50',
+0|value1-u |   sgst_tax_percentage: '1.50',
+0|value1-u |   igst_tax_percentage: '3.00',
+0|value1-u |   block_id: 'Eq3AG3G9'
+0|value1-u | }
+0|value1-u | Updated Rates Sucessfully:  {
+0|value1-u |   id: 'rate',
+0|value1-u |   g_buy: '5879.89',
+0|value1-u |   g_sell: '5725.83',
+0|value1-u |   s_buy: '74.39',
+0|value1-u |   s_sell: '65.89',
+0|value1-u |   g_buy_gst: '176.40',
+0|value1-u |   s_buy_gst: '2.23',
+0|value1-u |   cgst_tax_percentage: '1.50',
+0|value1-u |   sgst_tax_percentage: '1.50',
+0|value1-u |   igst_tax_percentage: '3.00',
+0|value1-u |   block_id: 'Eq3AG3G9'
+0|value1-u | }
+0|value1-u | running a task every 15 secs
+0|value1-u | {"level":"info","message":"Repository: getAllToken"}
+0|value1-u | {"level":"info","message":"Repository: updateRates"}
+0|value1-u | data {
+0|value1-u |   id: 'rate',
+0|value1-u |   g_buy: '5879.89',
+0|value1-u |   g_sell: '5725.83',
+0|value1-u |   s_buy: '74.39',
+0|value1-u |   s_sell: '65.89',
+0|value1-u |   g_buy_gst: '176.40',
+0|value1-u |   s_buy_gst: '2.23',
+0|value1-u |   cgst_tax_percentage: '1.50',
+0|value1-u |   sgst_tax_percentage: '1.50',
+0|value1-u |   igst_tax_percentage: '3.00',
+0|value1-u |   block_id: 'Eq3AG3G9'
+0|value1-u | }
+0|value1-u | Updated Rates Sucessfully:  {
+0|value1-u |   id: 'rate',
+0|value1-u |   g_buy: '5879.89',
+0|value1-u |   g_sell: '5725.83',
+0|value1-u |   s_buy: '74.39',
+0|value1-u |   s_sell: '65.89',
+0|value1-u |   g_buy_gst: '176.40',
+0|value1-u |   s_buy_gst: '2.23',
+0|value1-u |   cgst_tax_percentage: '1.50',
+0|value1-u |   sgst_tax_percentage: '1.50',
+0|value1-u |   igst_tax_percentage: '3.00',
+0|value1-u |   block_id: 'Eq3AG3G9'
+0|value1-u | }
+0|value1-u | running a task every 15 secs
+0|value1-u | {"level":"info","message":"Repository: getAllToken"}
+0|value1-u | {"level":"info","message":"Repository: updateRates"}
+0|value1-u | data {
+0|value1-u |   id: 'rate',
+0|value1-u |   g_buy: '5879.89',
+0|value1-u |   g_sell: '5725.83',
+0|value1-u |   s_buy: '74.39',
+0|value1-u |   s_sell: '65.89',
+0|value1-u |   g_buy_gst: '176.40',
+0|value1-u |   s_buy_gst: '2.23',
+0|value1-u |   cgst_tax_percentage: '1.50',
+0|value1-u |   sgst_tax_percentage: '1.50',
+0|value1-u |   igst_tax_percentage: '3.00',
+0|value1-u |   block_id: 'yqMJlaa7'
+0|value1-u | }
+0|value1-u | Updated Rates Sucessfully:  {
+0|value1-u |   id: 'rate',
+0|value1-u |   g_buy: '5879.89',
+0|value1-u |   g_sell: '5725.83',
+0|value1-u |   s_buy: '74.39',
+0|value1-u |   s_sell: '65.89',
+0|value1-u |   g_buy_gst: '176.40',
+0|value1-u |   s_buy_gst: '2.23',
+0|value1-u |   cgst_tax_percentage: '1.50',
+0|value1-u |   sgst_tax_percentage: '1.50',
+0|value1-u |   igst_tax_percentage: '3.00',
+0|value1-u |   block_id: 'yqMJlaa7'
+0|value1-u | }
+0|value1-u | running a task every 15 secs
+0|value1-u | {"level":"info","message":"Repository: getAllToken"}
+0|value1-u | {"level":"info","message":"Repository: updateRates"}
+0|value1-u | data {
+0|value1-u |   id: 'rate',
+0|value1-u |   g_buy: '5879.89',
+0|value1-u |   g_sell: '5725.83',
+0|value1-u |   s_buy: '74.39',
+0|value1-u |   s_sell: '65.89',
+0|value1-u |   g_buy_gst: '176.40',
+0|value1-u |   s_buy_gst: '2.23',
+0|value1-u |   cgst_tax_percentage: '1.50',
+0|value1-u |   sgst_tax_percentage: '1.50',
+0|value1-u |   igst_tax_percentage: '3.00',
+0|value1-u |   block_id: '2XgPzQKq'
+0|value1-u | }
+0|value1-u | Updated Rates Sucessfully:  {
+0|value1-u |   id: 'rate',
+0|value1-u |   g_buy: '5879.89',
+0|value1-u |   g_sell: '5725.83',
+0|value1-u |   s_buy: '74.39',
+0|value1-u |   s_sell: '65.89',
+0|value1-u |   g_buy_gst: '176.40',
+0|value1-u |   s_buy_gst: '2.23',
+0|value1-u |   cgst_tax_percentage: '1.50',
+0|value1-u |   sgst_tax_percentage: '1.50',
+0|value1-u |   igst_tax_percentage: '3.00',
+0|value1-u |   block_id: '2XgPzQKq'
+0|value1-u | }
+0|value1-u | running a task every 15 secs
+0|value1-u | {"level":"info","message":"Repository: getAllToken"}
+0|value1-u | {"level":"info","message":"Repository: updateRates"}
+0|value1-u | data {
+0|value1-u |   id: 'rate',
+0|value1-u |   g_buy: '5879.89',
+0|value1-u |   g_sell: '5725.83',
+0|value1-u |   s_buy: '74.39',
+0|value1-u |   s_sell: '65.89',
+0|value1-u |   g_buy_gst: '176.40',
+0|value1-u |   s_buy_gst: '2.23',
+0|value1-u |   cgst_tax_percentage: '1.50',
+0|value1-u |   sgst_tax_percentage: '1.50',
+0|value1-u |   igst_tax_percentage: '3.00',
+0|value1-u |   block_id: '2XgPzQKq'
+0|value1-u | }
+0|value1-u | Updated Rates Sucessfully:  {
+0|value1-u |   id: 'rate',
+0|value1-u |   g_buy: '5879.89',
+0|value1-u |   g_sell: '5725.83',
+0|value1-u |   s_buy: '74.39',
+0|value1-u |   s_sell: '65.89',
+0|value1-u |   g_buy_gst: '176.40',
+0|value1-u |   s_buy_gst: '2.23',
+0|value1-u |   cgst_tax_percentage: '1.50',
+0|value1-u |   sgst_tax_percentage: '1.50',
+0|value1-u |   igst_tax_percentage: '3.00',
+0|value1-u |   block_id: '2XgPzQKq'
+0|value1-u | }
+0|value1-u | params:  { id: 'lw6jdpMql9fPfnYT4AMAcyaB4ez2' }
+0|value1-u | query:  { pan_number: 'ACTPF8696G' }
+0|value1-u | {"level":"info","message":"Repository: checkPanNumber"}
+0|value1-u | data []
+0|value1-u | {"level":"info","message":"Handler: checkPanNumber"}
+0|value1-u | data:  { pan_exist: false, message: 'Pan Number is not exist' }
+0|value1-u | softpayapi:  {
+0|value1-u |   ref_id: null,
+0|value1-u |   error_code: 'SPC-203',
+0|value1-u |   status: 'Failure',
+0|value1-u |   message: 'Record not found',
+0|value1-u |   trans_charge: '0.50',
+0|value1-u |   data: null
+0|value1-u | }
+0|value1-u | running a task every 15 secs
+0|value1-u | {"level":"info","message":"Repository: getAllToken"}
+0|value1-u | {"level":"info","message":"Repository: updateRates"}
+0|value1-u | data {
+0|value1-u |   id: 'rate',
+0|value1-u |   g_buy: '5879.89',
+0|value1-u |   g_sell: '5725.83',
+0|value1-u |   s_buy: '74.39',
+0|value1-u |   s_sell: '65.89',
+0|value1-u |   g_buy_gst: '176.40',
+0|value1-u |   s_buy_gst: '2.23',
+0|value1-u |   cgst_tax_percentage: '1.50',
+0|value1-u |   sgst_tax_percentage: '1.50',
+0|value1-u |   igst_tax_percentage: '3.00',
+0|value1-u |   block_id: '2XgPzQKq'
+0|value1-u | }
+0|value1-u | Updated Rates Sucessfully:  {
+0|value1-u |   id: 'rate',
+0|value1-u |   g_buy: '5879.89',
+0|value1-u |   g_sell: '5725.83',
+0|value1-u |   s_buy: '74.39',
+0|value1-u |   s_sell: '65.89',
+0|value1-u |   g_buy_gst: '176.40',
+0|value1-u |   s_buy_gst: '2.23',
+0|value1-u |   cgst_tax_percentage: '1.50',
+0|value1-u |   sgst_tax_percentage: '1.50',
+0|value1-u |   igst_tax_percentage: '3.00',
+0|value1-u |   block_id: '2XgPzQKq'
+0|value1-u | }
+0|value1-u | params:  { id: 'lw6jdpMql9fPfnYT4AMAcyaB4ez2' }
+0|value1-u | query:  { pan_number: 'ACTPF8696G' }
+0|value1-u | {"level":"info","message":"Repository: checkPanNumber"}
+0|value1-u | data []
+0|value1-u | {"level":"info","message":"Handler: checkPanNumber"}
+0|value1-u | data:  { pan_exist: false, message: 'Pan Number is not exist' }
+0|value1-u | softpayapi:  {
+0|value1-u |   ref_id: null,
+0|value1-u |   error_code: 'SPC-203',
+0|value1-u |   status: 'Failure',
+0|value1-u |   message: 'Record not found',
+0|value1-u |   trans_charge: '0.50',
+0|value1-u |   data: null
+0|value1-u | }
+0|value1-u | running a task every 15 secs
+0|value1-u | {"level":"info","message":"Repository: getAllToken"}
+0|value1-u | {"level":"info","message":"Repository: updateRates"}
+0|value1-u | data {
+0|value1-u |   id: 'rate',
+0|value1-u |   g_buy: '5879.89',
+0|value1-u |   g_sell: '5725.83',
+0|value1-u |   s_buy: '74.39',
+0|value1-u |   s_sell: '65.89',
+0|value1-u |   g_buy_gst: '176.40',
+0|value1-u |   s_buy_gst: '2.23',
+0|value1-u |   cgst_tax_percentage: '1.50',
+0|value1-u |   sgst_tax_percentage: '1.50',
+0|value1-u |   igst_tax_percentage: '3.00',
+0|value1-u |   block_id: 'yX5dMb89'
+0|value1-u | }
+0|value1-u | Updated Rates Sucessfully:  {
+0|value1-u |   id: 'rate',
+0|value1-u |   g_buy: '5879.89',
+0|value1-u |   g_sell: '5725.83',
+0|value1-u |   s_buy: '74.39',
+0|value1-u |   s_sell: '65.89',
+0|value1-u |   g_buy_gst: '176.40',
+0|value1-u |   s_buy_gst: '2.23',
+0|value1-u |   cgst_tax_percentage: '1.50',
+0|value1-u |   sgst_tax_percentage: '1.50',
+0|value1-u |   igst_tax_percentage: '3.00',
+0|value1-u |   block_id: 'yX5dMb89'
+0|value1-u | }
+0|value1-u | running a task every 15 secs
+0|value1-u | {"level":"info","message":"Repository: getAllToken"}
+0|value1-u | {"level":"info","message":"Repository: updateRates"}
+0|value1-u | data {
+0|value1-u |   id: 'rate',
+0|value1-u |   g_buy: '5879.89',
+0|value1-u |   g_sell: '5725.83',
+0|value1-u |   s_buy: '74.39',
+0|value1-u |   s_sell: '65.89',
+0|value1-u |   g_buy_gst: '176.40',
+0|value1-u |   s_buy_gst: '2.23',
+0|value1-u |   cgst_tax_percentage: '1.50',
+0|value1-u |   sgst_tax_percentage: '1.50',
+0|value1-u |   igst_tax_percentage: '3.00',
+0|value1-u |   block_id: 'p9kbVGE7'
+0|value1-u | }
+0|value1-u | Updated Rates Sucessfully:  {
+0|value1-u |   id: 'rate',
+0|value1-u |   g_buy: '5879.89',
+0|value1-u |   g_sell: '5725.83',
+0|value1-u |   s_buy: '74.39',
+0|value1-u |   s_sell: '65.89',
+0|value1-u |   g_buy_gst: '176.40',
+0|value1-u |   s_buy_gst: '2.23',
+0|value1-u |   cgst_tax_percentage: '1.50',
+0|value1-u |   sgst_tax_percentage: '1.50',
+0|value1-u |   igst_tax_percentage: '3.00',
+0|value1-u |   block_id: 'p9kbVGE7'
+0|value1-u | }
+0|value1-u | running a task every 15 secs
+0|value1-u | {"level":"info","message":"Repository: getAllToken"}
+0|value1-u | {"level":"info","message":"Repository: updateRates"}
+0|value1-u | data {
+0|value1-u |   id: 'rate',
+0|value1-u |   g_buy: '5879.89',
+0|value1-u |   g_sell: '5725.83',
+0|value1-u |   s_buy: '74.39',
+0|value1-u |   s_sell: '65.89',
+0|value1-u |   g_buy_gst: '176.40',
+0|value1-u |   s_buy_gst: '2.23',
+0|value1-u |   cgst_tax_percentage: '1.50',
+0|value1-u |   sgst_tax_percentage: '1.50',
+0|value1-u |   igst_tax_percentage: '3.00',
+0|value1-u |   block_id: 'p9kbVGE7'
+0|value1-u | }
+0|value1-u | Updated Rates Sucessfully:  {
+0|value1-u |   id: 'rate',
+0|value1-u |   g_buy: '5879.89',
+0|value1-u |   g_sell: '5725.83',
+0|value1-u |   s_buy: '74.39',
+0|value1-u |   s_sell: '65.89',
+0|value1-u |   g_buy_gst: '176.40',
+0|value1-u |   s_buy_gst: '2.23',
+0|value1-u |   cgst_tax_percentage: '1.50',
+0|value1-u |   sgst_tax_percentage: '1.50',
+0|value1-u |   igst_tax_percentage: '3.00',
+0|value1-u |   block_id: 'p9kbVGE7'
+0|value1-u | }
+0|value1-u | running a task every 15 secs
+0|value1-u | {"level":"info","message":"Repository: getAllToken"}
+0|value1-u | {"level":"info","message":"Repository: updateRates"}
+0|value1-u | data {
+0|value1-u |   id: 'rate',
+0|value1-u |   g_buy: '5879.89',
+0|value1-u |   g_sell: '5725.83',
+0|value1-u |   s_buy: '74.39',
+0|value1-u |   s_sell: '65.89',
+0|value1-u |   g_buy_gst: '176.40',
+0|value1-u |   s_buy_gst: '2.23',
+0|value1-u |   cgst_tax_percentage: '1.50',
+0|value1-u |   sgst_tax_percentage: '1.50',
+0|value1-u |   igst_tax_percentage: '3.00',
+0|value1-u |   block_id: 'p9kbVGE7'
+0|value1-u | }
+0|value1-u | Updated Rates Sucessfully:  {
+0|value1-u |   id: 'rate',
+0|value1-u |   g_buy: '5879.89',
+0|value1-u |   g_sell: '5725.83',
+0|value1-u |   s_buy: '74.39',
+0|value1-u |   s_sell: '65.89',
+0|value1-u |   g_buy_gst: '176.40',
+0|value1-u |   s_buy_gst: '2.23',
+0|value1-u |   cgst_tax_percentage: '1.50',
+0|value1-u |   sgst_tax_percentage: '1.50',
+0|value1-u |   igst_tax_percentage: '3.00',
+0|value1-u |   block_id: 'p9kbVGE7'
+0|value1-u | }
+0|value1-u | running a task every 15 secs
+0|value1-u | {"level":"info","message":"Repository: getAllToken"}
+0|value1-u | {"level":"info","message":"Repository: updateRates"}
+0|value1-u | data {
+0|value1-u |   id: 'rate',
+0|value1-u |   g_buy: '5879.89',
+0|value1-u |   g_sell: '5725.83',
+0|value1-u |   s_buy: '74.39',
+0|value1-u |   s_sell: '65.89',
+0|value1-u |   g_buy_gst: '176.40',
+0|value1-u |   s_buy_gst: '2.23',
+0|value1-u |   cgst_tax_percentage: '1.50',
+0|value1-u |   sgst_tax_percentage: '1.50',
+0|value1-u |   igst_tax_percentage: '3.00',
+0|value1-u |   block_id: 'e9AJvVDX'
+0|value1-u | }
+0|value1-u | Updated Rates Sucessfully:  {
+0|value1-u |   id: 'rate',
+0|value1-u |   g_buy: '5879.89',
+0|value1-u |   g_sell: '5725.83',
+0|value1-u |   s_buy: '74.39',
+0|value1-u |   s_sell: '65.89',
+0|value1-u |   g_buy_gst: '176.40',
+0|value1-u |   s_buy_gst: '2.23',
+0|value1-u |   cgst_tax_percentage: '1.50',
+0|value1-u |   sgst_tax_percentage: '1.50',
+0|value1-u |   igst_tax_percentage: '3.00',
+0|value1-u |   block_id: 'e9AJvVDX'
+0|value1-u | }
+0|value1-u | running a task every 15 secs
+0|value1-u | {"level":"info","message":"Repository: getAllToken"}
+0|value1-u | {"level":"info","message":"Repository: updateRates"}
+0|value1-u | data {
+0|value1-u |   id: 'rate',
+0|value1-u |   g_buy: '5879.89',
+0|value1-u |   g_sell: '5725.83',
+0|value1-u |   s_buy: '74.39',
+0|value1-u |   s_sell: '65.89',
+0|value1-u |   g_buy_gst: '176.40',
+0|value1-u |   s_buy_gst: '2.23',
+0|value1-u |   cgst_tax_percentage: '1.50',
+0|value1-u |   sgst_tax_percentage: '1.50',
+0|value1-u |   igst_tax_percentage: '3.00',
+0|value1-u |   block_id: 'VXePdA89'
+0|value1-u | }
+0|value1-u | Updated Rates Sucessfully:  {
+0|value1-u |   id: 'rate',
+0|value1-u |   g_buy: '5879.89',
+0|value1-u |   g_sell: '5725.83',
+0|value1-u |   s_buy: '74.39',
+0|value1-u |   s_sell: '65.89',
+0|value1-u |   g_buy_gst: '176.40',
+0|value1-u |   s_buy_gst: '2.23',
+0|value1-u |   cgst_tax_percentage: '1.50',
+0|value1-u |   sgst_tax_percentage: '1.50',
+0|value1-u |   igst_tax_percentage: '3.00',
+0|value1-u |   block_id: 'VXePdA89'
+0|value1-u | }
+0|value1-u | running a task every 15 secs
+0|value1-u | {"level":"info","message":"Repository: getAllToken"}
+0|value1-u | {"level":"info","message":"Repository: updateRates"}
+0|value1-u | data {
+0|value1-u |   id: 'rate',
+0|value1-u |   g_buy: '5879.89',
+0|value1-u |   g_sell: '5725.83',
+0|value1-u |   s_buy: '74.39',
+0|value1-u |   s_sell: '65.89',
+0|value1-u |   g_buy_gst: '176.40',
+0|value1-u |   s_buy_gst: '2.23',
+0|value1-u |   cgst_tax_percentage: '1.50',
+0|value1-u |   sgst_tax_percentage: '1.50',
+0|value1-u |   igst_tax_percentage: '3.00',
+0|value1-u |   block_id: 'VXePdA89'
+0|value1-u | }
+0|value1-u | Updated Rates Sucessfully:  {
+0|value1-u |   id: 'rate',
+0|value1-u |   g_buy: '5879.89',
+0|value1-u |   g_sell: '5725.83',
+0|value1-u |   s_buy: '74.39',
+0|value1-u |   s_sell: '65.89',
+0|value1-u |   g_buy_gst: '176.40',
+0|value1-u |   s_buy_gst: '2.23',
+0|value1-u |   cgst_tax_percentage: '1.50',
+0|value1-u |   sgst_tax_percentage: '1.50',
+0|value1-u |   igst_tax_percentage: '3.00',
+0|value1-u |   block_id: 'VXePdA89'
+0|value1-u | }
+0|value1-u | running a task every 15 secs
+0|value1-u | {"level":"info","message":"Repository: getAllToken"}
+0|value1-u | {"level":"info","message":"Repository: updateRates"}
+0|value1-u | data {
+0|value1-u |   id: 'rate',
+0|value1-u |   g_buy: '5879.89',
+0|value1-u |   g_sell: '5725.83',
+0|value1-u |   s_buy: '74.39',
+0|value1-u |   s_sell: '65.89',
+0|value1-u |   g_buy_gst: '176.40',
+0|value1-u |   s_buy_gst: '2.23',
+0|value1-u |   cgst_tax_percentage: '1.50',
+0|value1-u |   sgst_tax_percentage: '1.50',
+0|value1-u |   igst_tax_percentage: '3.00',
+0|value1-u |   block_id: 'VXePdA89'
+0|value1-u | }
+0|value1-u | Updated Rates Sucessfully:  {
+0|value1-u |   id: 'rate',
+0|value1-u |   g_buy: '5879.89',
+0|value1-u |   g_sell: '5725.83',
+0|value1-u |   s_buy: '74.39',
+0|value1-u |   s_sell: '65.89',
+0|value1-u |   g_buy_gst: '176.40',
+0|value1-u |   s_buy_gst: '2.23',
+0|value1-u |   cgst_tax_percentage: '1.50',
+0|value1-u |   sgst_tax_percentage: '1.50',
+0|value1-u |   igst_tax_percentage: '3.00',
+0|value1-u |   block_id: 'VXePdA89'
+0|value1-u | }
+0|value1-u | running a task every 15 secs
+0|value1-u | {"level":"info","message":"Repository: getAllToken"}
+0|value1-u | {"level":"info","message":"Repository: updateRates"}
+0|value1-u | data {
+0|value1-u |   id: 'rate',
+0|value1-u |   g_buy: '5879.89',
+0|value1-u |   g_sell: '5725.83',
+0|value1-u |   s_buy: '74.39',
+0|value1-u |   s_sell: '65.89',
+0|value1-u |   g_buy_gst: '176.40',
+0|value1-u |   s_buy_gst: '2.23',
+0|value1-u |   cgst_tax_percentage: '1.50',
+0|value1-u |   sgst_tax_percentage: '1.50',
+0|value1-u |   igst_tax_percentage: '3.00',
+0|value1-u |   block_id: 'R7YPv8jq'
+0|value1-u | }
+0|value1-u | Updated Rates Sucessfully:  {
+0|value1-u |   id: 'rate',
+0|value1-u |   g_buy: '5879.89',
+0|value1-u |   g_sell: '5725.83',
+0|value1-u |   s_buy: '74.39',
+0|value1-u |   s_sell: '65.89',
+0|value1-u |   g_buy_gst: '176.40',
+0|value1-u |   s_buy_gst: '2.23',
+0|value1-u |   cgst_tax_percentage: '1.50',
+0|value1-u |   sgst_tax_percentage: '1.50',
+0|value1-u |   igst_tax_percentage: '3.00',
+0|value1-u |   block_id: 'R7YPv8jq'
+0|value1-u | }
+0|value1-u | running a task every 15 secs
+0|value1-u | {"level":"info","message":"Repository: getAllToken"}
+0|value1-u | {"level":"info","message":"Repository: updateRates"}
+0|value1-u | data {
+0|value1-u |   id: 'rate',
+0|value1-u |   g_buy: '5879.89',
+0|value1-u |   g_sell: '5725.83',
+0|value1-u |   s_buy: '74.39',
+0|value1-u |   s_sell: '65.89',
+0|value1-u |   g_buy_gst: '176.40',
+0|value1-u |   s_buy_gst: '2.23',
+0|value1-u |   cgst_tax_percentage: '1.50',
+0|value1-u |   sgst_tax_percentage: '1.50',
+0|value1-u |   igst_tax_percentage: '3.00',
+0|value1-u |   block_id: 'Q78JrMkX'
+0|value1-u | }
+0|value1-u | Updated Rates Sucessfully:  {
+0|value1-u |   id: 'rate',
+0|value1-u |   g_buy: '5879.89',
+0|value1-u |   g_sell: '5725.83',
+0|value1-u |   s_buy: '74.39',
+0|value1-u |   s_sell: '65.89',
+0|value1-u |   g_buy_gst: '176.40',
+0|value1-u |   s_buy_gst: '2.23',
+0|value1-u |   cgst_tax_percentage: '1.50',
+0|value1-u |   sgst_tax_percentage: '1.50',
+0|value1-u |   igst_tax_percentage: '3.00',
+0|value1-u |   block_id: 'Q78JrMkX'
+0|value1-u | }
+0|value1-u | running a task every 15 secs
+0|value1-u | {"level":"info","message":"Repository: getAllToken"}
+0|value1-u | {"level":"info","message":"Repository: updateRates"}
+0|value1-u | data {
+0|value1-u |   id: 'rate',
+0|value1-u |   g_buy: '5879.89',
+0|value1-u |   g_sell: '5725.83',
+0|value1-u |   s_buy: '74.39',
+0|value1-u |   s_sell: '65.89',
+0|value1-u |   g_buy_gst: '176.40',
+0|value1-u |   s_buy_gst: '2.23',
+0|value1-u |   cgst_tax_percentage: '1.50',
+0|value1-u |   sgst_tax_percentage: '1.50',
+0|value1-u |   igst_tax_percentage: '3.00',
+0|value1-u |   block_id: 'Q78JrMkX'
+0|value1-u | }
+0|value1-u | Updated Rates Sucessfully:  {
+0|value1-u |   id: 'rate',
+0|value1-u |   g_buy: '5879.89',
+0|value1-u |   g_sell: '5725.83',
+0|value1-u |   s_buy: '74.39',
+0|value1-u |   s_sell: '65.89',
+0|value1-u |   g_buy_gst: '176.40',
+0|value1-u |   s_buy_gst: '2.23',
+0|value1-u |   cgst_tax_percentage: '1.50',
+0|value1-u |   sgst_tax_percentage: '1.50',
+0|value1-u |   igst_tax_percentage: '3.00',
+0|value1-u |   block_id: 'Q78JrMkX'
+0|value1-u | }
+0|value1-u | running a task every 15 secs
+0|value1-u | {"level":"info","message":"Repository: getAllToken"}
+0|value1-u | {"level":"info","message":"Repository: updateRates"}
+0|value1-u | data {
+0|value1-u |   id: 'rate',
+0|value1-u |   g_buy: '5879.89',
+0|value1-u |   g_sell: '5725.83',
+0|value1-u |   s_buy: '74.39',
+0|value1-u |   s_sell: '65.89',
+0|value1-u |   g_buy_gst: '176.40',
+0|value1-u |   s_buy_gst: '2.23',
+0|value1-u |   cgst_tax_percentage: '1.50',
+0|value1-u |   sgst_tax_percentage: '1.50',
+0|value1-u |   igst_tax_percentage: '3.00',
+0|value1-u |   block_id: 'Q78JrMkX'
+0|value1-u | }
+0|value1-u | Updated Rates Sucessfully:  {
+0|value1-u |   id: 'rate',
+0|value1-u |   g_buy: '5879.89',
+0|value1-u |   g_sell: '5725.83',
+0|value1-u |   s_buy: '74.39',
+0|value1-u |   s_sell: '65.89',
+0|value1-u |   g_buy_gst: '176.40',
+0|value1-u |   s_buy_gst: '2.23',
+0|value1-u |   cgst_tax_percentage: '1.50',
+0|value1-u |   sgst_tax_percentage: '1.50',
+0|value1-u |   igst_tax_percentage: '3.00',
+0|value1-u |   block_id: 'Q78JrMkX'
+0|value1-u | }
+
